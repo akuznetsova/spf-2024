@@ -39,7 +39,7 @@ In this course, we will lay the foundation for our current understanding of star
  - Detection: When does this become a star anyway?
    -  YSO tracks: the protostar as a star
    -  The "birthline" and why ages are hard
-## Part 2: Planet-forming Disks: the birthplaces of planets
+## Part 2: Planet-forming Disks: the birthplaces of planets *Midterm*
 ### Disk Modeling and Observation
 - The wonderful world of disk physics
   - Alpha disks from the ground up
@@ -84,3 +84,35 @@ In this course, we will lay the foundation for our current understanding of star
 - Internal: Structure, Density, M/R relation
 - Atmosphere: measurements and astrochemistry (again)
     
+# Course Expectations
+This is a graduate course for early career scientists. In addition to content knowledge, we will be working on building and reinforcing the skills that constitute scientific practice. As part of that you can expect to be asked to use outside sources, engage with the literature, practice technical and programming skills, work collaboratively, and synthesize and communicate information to your colleagues. 
+
+Most of the course materials and resources will be hosted on this github repository. Content is grouped by each week of the course, starting with [week 0](./week_0) for the first day of class. As part of the course, you will be 
+made collaborators and asked to upload to this repository and contribute to shared resources (such as the class recaps and annotated bibliography). 
+
+The grading for the course will be somewhat non-traditional, rather than relying strictly on a weighted average of required assignments, grades will be assigned based on a total accrued amount of points across categories:
+
+| **category** 	| **points** 	| 
+|--------------	|-----------:	|
+| _Homework_   	|         60 	| 
+| _Menu_       	|         15 	| 
+| _Midterm_    	|         10 	|  
+| _Final_      	|         15 	| 
+| **_Total_**  	|        100 	| 
+
+*Homework* (60): Required weekly assignments e.g. problem sets and computational assignments due by XX on XX. Will provide ~4 total points each week. 
+
+*Menu* (15): Assignments on the menu each week provide multiple options to earn toward your grade total (or can be used to supplement points from other categories) -- you can think of this as a slush pile of points up for grabs. These may be turned in any time, but for steady progression, I would highly recommend to aim for ~ 1pt/week. The menu category is meant to award credit for engaging with the course content and generally doing the kinds of activities that comprise "learning" that you may have been doing anyway. Point values are provided as expected ranges for good faith contributions, awarded values are at instructor discretion. Students may choose from the standard menu options below in addition to any weekly `specials'. 
+
+**The Standard Menu**
+
+*Class Recap* (1 pt): For each class, a student will be assigned to produce a class recap, due before the start of the next class, uploaded to the directory for that week in markdown format (templates and instructions are found in the weekly folders). Completing this assignment is worth the week's worth of menu points (and contributes to a communal resource!)
+
+*Resource Contribution* (~0.1-0.5 pts / contribution): Did you find a link to a useful set of online lecture notes that relate to the class material? Do you have an analogy, conceptual explanation, or example for a topic discussed in class or find an online resource that helped you better understand a concept? Do you have a question that you haven't been able to find an answer for (or an answer to one you see)? Any of these are fair game submissions to get credit as resource contributions (and are a great way to share resources with your colleagues).
+You can add links/notes/questions/images directly to where they would be relevant in the week's recap or upload pdfs/images to the week's folder and link them in the Resources section of the week's recap with a short description. These can even be added to a folder from a prior week. 
+To be eligible for points, contributions should be committed with a commit message title "CONTRIBUTION - [NAME]" with a brief commit description that states the relevance of the contribution to the material.
+
+*Annotated Bibliography* (~ 0.5 pts / paper): Add a paper to the class annotated bibliography. If you read a paper relevant to the course material in this class, add an ads link to the abstract, a paragraph or two summarizing the paper's message, any insights you have, and its relevance to the course material (template provided here). 
+To be eligible for points, uploads should be committed with a commit message title "BIB CONTRIBUTION - [NAME]" with a brief commit description of topic keywords. 
+
+
