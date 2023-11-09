@@ -39,7 +39,8 @@ In this course, we will lay the foundation for our current understanding of star
  - Detection: When does this become a star anyway?
    -  YSO tracks: the protostar as a star
    -  The "birthline" and why ages are hard
-## Part 2: Planet-forming Disks: the birthplaces of planets *Midterm*
+**Midterm**
+## Part 2: Planet-forming Disks: the birthplaces of planets 
 ### Disk Modeling and Observation
 - The wonderful world of disk physics
   - Alpha disks from the ground up
@@ -100,19 +101,42 @@ The grading for the course will be somewhat non-traditional, rather than relying
 | _Final_      	|         15 	| 
 | **_Total_**  	|        100 	| 
 
-*Homework* (60): Required weekly assignments e.g. problem sets and computational assignments due by XX on XX. Will provide ~4 total points each week. 
+where ranges for passing grades are as follows:
 
-*Menu* (15): Assignments on the menu each week provide multiple options to earn toward your grade total (or can be used to supplement points from other categories) -- you can think of this as a slush pile of points up for grabs. These may be turned in any time, but for steady progression, I would highly recommend to aim for ~ 1pt/week. The menu category is meant to award credit for engaging with the course content and generally doing the kinds of activities that comprise "learning" that you may have been doing anyway. Point values are provided as expected ranges for good faith contributions, awarded values are at instructor discretion. Students may choose from the standard menu options below in addition to any weekly `specials'. 
+A: [90-100+), B: [80-90), C: [70-80) 
+
+### *Homework* (60): 
+Required weekly assignments e.g. problem sets and computational assignments due by XX on XX. Will provide ~4 total points each week. 
+
+### *Menu* (15+): 
+Assignments on the menu each week provide multiple options to earn toward your grade total (or can be used to supplement points from other categories) -- you can think of this as a slush pile of points up for grabs. These may be turned in any time, but for steady progression, I would highly recommend to aim for ~ 1pt/week. The menu category is meant to award credit for engaging with the course content and generally doing the kinds of activities that comprise "learning" that you may have been doing anyway. Point values are provided as expected ranges for good faith contributions, awarded values are at instructor discretion. Students may choose from the standard menu options below in addition to any weekly 'specials'. 
 
 **The Standard Menu**
 
-*Class Recap* (1 pt): For each class, a student will be assigned to produce a class recap, due before the start of the next class, uploaded to the directory for that week in markdown format (templates and instructions are found in the weekly folders). Completing this assignment is worth the week's worth of menu points (and contributes to a communal resource!)
+*Class Recap* (1 pt)
+> For each class, a student will be assigned to produce a class recap, due before the start of the next class, uploaded to the directory for that week in markdown format (templates and instructions are found in the weekly folders). Completing this assignment is worth the week's worth of menu points (and contributes to a valuable communal resource!)
+> If something comes up, please arrange for a classmate to take over the duty before the deadline.
 
-*Resource Contribution* (~0.1-0.5 pts / contribution): Did you find a link to a useful set of online lecture notes that relate to the class material? Do you have an analogy, conceptual explanation, or example for a topic discussed in class or find an online resource that helped you better understand a concept? Do you have a question that you haven't been able to find an answer for (or an answer to one you see)? Any of these are fair game submissions to get credit as resource contributions (and are a great way to share resources with your colleagues).
-You can add links/notes/questions/images directly to where they would be relevant in the week's recap or upload pdfs/images to the week's folder and link them in the Resources section of the week's recap with a short description. These can even be added to a folder from a prior week. 
-To be eligible for points, contributions should be committed with a commit message title "CONTRIBUTION - [NAME]" with a brief commit description that states the relevance of the contribution to the material.
+*Resource Contribution* (~0.1-0.5 pts / contribution)
+> Did you find a link to a useful set of online lecture notes that relate to the class material? Do you have an analogy, conceptual explanation, or example for a topic discussed in class or find an online resource that helped you better understand a concept? Do you have a question that you haven't been able to find an answer for (or an answer to one you see)? Any of these are fair game submissions to get credit as resource contributions (and are a great way to share resources with your colleagues).
 
-*Annotated Bibliography* (~ 0.5 pts / paper): Add a paper to the class annotated bibliography. If you read a paper relevant to the course material in this class, add an ads link to the abstract, a paragraph or two summarizing the paper's message, any insights you have, and its relevance to the course material (template provided here). 
-To be eligible for points, uploads should be committed with a commit message title "BIB CONTRIBUTION - [NAME]" with a brief commit description of topic keywords. 
+> You can add links/notes/questions/images directly to where they would be relevant in the week's recap or upload pdfs/images to the week's folder and link them in the Resources section of the week's recap with a short description. These can even be added to a folder from a prior week. 
 
+> To be eligible for points, contributions should be committed with a commit message title "CONTRIBUTION - [NAME]" with a brief commit description that states the relevance of the contribution to the material.
 
+*Annotated Bibliography* (~ 0.5 pts / paper)
+> Add a paper to the class annotated bibliography. If you read a paper relevant to the course material in this class, add an ads link to the abstract, a paragraph or two summarizing the paper's message, any insights you have, and its relevance to the course material (template provided here). 
+
+> To be eligible for points, uploads should be committed with a commit message title "BIB CONTRIBUTION - [NAME]" with a brief commit description of topic keywords. You are welcome to split the work and credit with a classmate, simply put multiple names in the commit title so that total points can be split between contributors. 
+
+*Homework Reflection* (1/2-full pts back)
+> Making mistakes is part of learning. If you would like to earn points back on a homework, you may re-submit the corrected assignment with a reflection component. The reflection should address the source of the initial error and the reasoning for the revised solution. Reflections may be submitted in written form with the resubmission or as a discussion during office hours/by appt. By its nature, this is easier to complete sooner rather than later.
+
+### *Midterm* (10):
+The midterm consists of a contribution to a class project contextualizing observations of star formation across Galactic scales and environment. The midterm will take place at the conclusion of Part I in class on DATE. Each student will be responsible for the presentation of their individual contribution and participation in the discussion on the day of the midterm (9 pts). Details to follow in class.
+(1 pt) Attend a brief meeting with the instructor to cross-check grade records and provide/receive feedback on course progression.  
+
+### *Final* (15):
+For the final, students have the choice of (1) a longer form research project with a modeling component or (2) a one hour oral final exam. By X date, students will have submitted their pitches for the final project topic or scheduled a date/time for the final examination. 
+
+The structure of this course is meant to provide transparency and flexiblity for you as the student, giving you the tools to earn your grade and multiple pathways by which to demonstrate your learning. While this is meant to give you  some room to sustainably pace yourself through the course without formally incurring penalties, at the end of the day, you are also responsible for your learning and learning generally doesn't happen without putting in the work. You know yourself best -- make good choices. 
