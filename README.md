@@ -3,6 +3,10 @@ In this course, we will lay the foundation for our current understanding of star
 
 1 hr 40 minutes class - 2x/week
 
+# Quick Links
+[Annotated Bibliography](./bibliography/index.md)
+
+
 # Course Outline
 ## Part 1: Star Formation in the Galaxy
 ### The Interstellar Medium: the ingredients of planetary systems
