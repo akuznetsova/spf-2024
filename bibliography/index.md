@@ -8,7 +8,9 @@ Some questions to ask as you read:
 1. Are the starting assumptions appropriate for the questions the paper wishes to address?
 2. Are the methods/measurements representative of the system described by the starting assumptions? For ex, are they comparing apples to apples?
 3. Do the results support the claims being put forth? Are there alternative interpretations you can come up with?
-4. Are the claims relevant to the motivation? 
+4. Are the claims relevant to the motivation?
+
+> To be eligible for points, uploads should be committed with a commit message title "BIB CONTRIBUTION - [NAME]" with a brief commit description of topic keywords. You are welcome to split the work and credit with a classmate, simply put multiple names in the commit title so that total points can be split between contributors. 
 
 Template:
 ```
