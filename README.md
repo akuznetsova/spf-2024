@@ -31,6 +31,7 @@ In this course, we will lay the foundation for our current understanding of star
 [Class Recap Template](./templates/[TEMPLATE]-recap.md)
 
 # Course Schedule
+(Tentative): Exact timing subject to change. This is a live syllabus which will be updated throughout the course.
 ## Part 1: Star Formation in the Galaxy
 ### The Interstellar Medium: the ingredients of planetary systems
 
@@ -84,13 +85,16 @@ In this course, we will lay the foundation for our current understanding of star
    - Flux-freezing, magnetic Jean's masses etc.
    - The Magnetic Braking Catastrophe
    - An introduction to non-ideal MHD
+ - Measuring magnetic fields
+   - Zeeman splitting, polarization
+   - Confounding factors: dust strikes again
      
 [**Week 8**](./week8_objectives.md) - *Mar 18, Mar 20*
  - Detection: When does all this become a star anyway?
    -  YSO tracks: the protostar as a star
-   -  The "birthline" and why protostellar aages are hard
+   -  The "birthline" and why protostellar ages are hard
  - YSOs: the IR revolution
-     - Dust opacities again (in disks, this time!)
+     - Dust opacities again (in disks this time!)
      - Spectral Energy Distributions (SEDs)
        
 [**Week 9: (prep for) + Midterm**](./midterm.md) - *Mar 25, Mar 27*
@@ -136,13 +140,14 @@ In this course, we will lay the foundation for our current understanding of star
   - the mysteries of migration
   - embedded protoplanets in observation
     
-### End of the Gas-Dominated Era
+### Young Planets: After the Disk 
 [**Week 14**](./week14_objectives.md) - *May 6, May 8*
 - Photoevaporation and other gas-clearing mechanisms
 - Collisional evolution and planet-planet interactions
   - Proposed mechanisms in the solar system
 - Debris Disks and the Collisional Cascade
 - Planetary Dynamics: Tidal Migration and Dissipation
+- Young planets: hot start, cold start and internal structure
   
 ### Planet Population Properties
 [**Week 15**](./week15_objectives.md) - *May 13, May 15*
@@ -151,7 +156,7 @@ In this course, we will lay the foundation for our current understanding of star
 - Internal: Structure, Density, M/R relation
 - Atmosphere: measurements and astrochemistry (again)
   
-[**Finals Week**](./final_project.md) - Projects due
+[**Finals Week**](./final_project.md) - Final projects due
 
     
 # Course Expectations
@@ -173,7 +178,7 @@ where ranges for passing grades are as follows:
 A: [90-100+), B: [80-90), C: [70-80)
 
 ### *Homework* (60): 
-Required weekly assignments e.g. problem sets and computational assignments due by XX on XX. Will provide ~4 total points each week. Homeworks should be uploaded to 
+Required weekly assignments e.g. problem sets and computational assignments due by XX on XX. Will provide ~4 total points each week. 
 
 ### *Menu* (15+): 
 Assignments on the menu each week provide multiple options to earn toward your grade total (or can be used to supplement points from other categories) -- you can think of this as a slush pile of points up for grabs. These may be turned in any time, but for steady progression, I would highly recommend to aim for ~ 1pt/week. The menu category is meant to award credit for engaging with the course content and generally doing the kinds of activities that comprise "learning" that you may have been doing anyway. Point values are provided as expected ranges for good faith contributions, awarded values are at instructor discretion. Students may choose from the standard menu options below in addition to any weekly 'specials'. 
@@ -200,7 +205,7 @@ Assignments on the menu each week provide multiple options to earn toward your g
 > Making mistakes is part of learning. If you would like to earn points back on a homework, you may re-submit the corrected assignment with a reflection component. The reflection should address the source of the initial error and the reasoning for the revised solution. Reflections may be submitted in written form with the resubmission or as a discussion during office hours/by appt. By its nature, this is easier to complete sooner rather than later.
 
 ### *Midterm* (10):
-The midterm consists of a contribution to a class project contextualizing observations of star formation across Galactic scales and environment. The midterm will take place at the conclusion of Part I in class on DATE. Each student will be responsible for the presentation of their individual contribution and participation in the discussion on the day of the midterm (9 pts). Details to follow in class.
+The midterm consists of a contribution to a class project contextualizing observations of star formation across Galactic scales and environment. The midterm will take place at the conclusion of Part I in class (tentatively) on Mar 27 . (9pts) Each student will be responsible for the presentation of their individual contribution and participation in the discussion on the day of the midterm. Details to follow in class.
 (1 pt) Attend a brief meeting with the instructor to cross-check grade records and provide/receive feedback on course progression.  
 
 ### *Final* (15):
