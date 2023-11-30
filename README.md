@@ -5,7 +5,7 @@ Email: akuznetsova@flatironinstitute.org
 
 Class meets: Mondays and Wednesdays 2:00PM-3:45PM at the Graduate Center Campus
 
-Office Hours: TBD at TBD (To be decided on the first day)
+Office Hours: TBD at TBD (To be decided as a class on the first day)
 
 ## Learning Goals
 In this course, we will lay the foundation for our current understanding of star and planet formation, from physical processes in the interstellar medium on giant molecular cloud scales down to the assembly of planets. We will discuss how observational evidence informs the theoretical picture of how stars and planets are born in our Galaxy, learn how to construct basic models of planet-forming environments, and survey open questions in the field. 
