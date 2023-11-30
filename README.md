@@ -1,100 +1,163 @@
-# Star and Planet Formation 
-In this course, we will lay the foundation for our current understanding of star and planet formation, from physical processes in the interstellar medium on giant molecular cloud scales down to the assembly of planets. We will discuss how observational evidence informs the theoretical picture of how stars and planets are born in our Galaxy, learn how to construct basic models of planet-forming environments , and survey open questions in the field. 
+# Advanced Topics in Physics: Star and Planet Formation 
+Instructor: Dr. Aleksandra Kuznetsova (CUNY GC; Center for Computational Astrophysics, Flatiron Institute)
 
-1 hr 40 minutes class - 2x/week
+Email: akuznetsova@flatironinstitute.org
 
-# Quick Links
+Class meets: Mondays and Wednesdays 2:00PM-3:45PM at the Graduate Center Campus
+
+Office Hours: TBD at TBD (To be decided on the first day)
+
+## Learning Goals
+In this course, we will lay the foundation for our current understanding of star and planet formation, from physical processes in the interstellar medium on giant molecular cloud scales down to the assembly of planets. We will discuss how observational evidence informs the theoretical picture of how stars and planets are born in our Galaxy, learn how to construct basic models of planet-forming environments, and survey open questions in the field. 
+
+## Course Resources
+[*Introduction to the Interstellar Medium*, by Jonathan Williams](https://doi.org/10.1017/9781108691178) 
+> ISBN: 9781108691178
+>
+> Course textbook (recommended): excellent reference for material in the first > half of the course. This book has a [companion website](https://interstellarmedium.github.io/) that hosts the data and code behind the figures 
+
+[*Accretion Processes in Star Formation* 2nd Ed., by Lee Hartmann](https://doi.org/10.1017/CBO9780511552090) 
+> ISBN: 9780511552090
+>
+> Textbook (v. optional): an overarching review of relevant literature spanning many of the topics covered in this course
+
+[*Physics of the Interstellar and Intergalactic Medium* by Bruce T. Draine.](https://press.princeton.edu/books/paperback/9780691122144/physics-of-the-interstellar-and-intergalactic-medium) 
+> ISBN: 9780691122144
+>
+> Textbook (v. optional): An incredibly thorough review of microphysical processes and radiative transfer in the interstellar medium. I won't be teaching out of this book, but it can be very useful as a technical reference for future career astronomers.  
+
 [Annotated Bibliography](./bibliography/index.md)
 
+[Class Recap Template](./templates/[TEMPLATE]-recap.md)
 
-# Course Outline
+# Course Schedule
 ## Part 1: Star Formation in the Galaxy
 ### The Interstellar Medium: the ingredients of planetary systems
+
+[**Week 1**](./week1_objectives.md) - *Jan 29, Jan 31*
+- Overview: The Basic Story of Star and Planet Formation
+    - Tale as old as time: the Nebular Hypothesis from Immanuel Kant to today 
 - What is star stuff and where does it come from?
-    - Gas: Phases of the ISM and how we trace them (ions, neutrals, molecules, cosmic rays)
-    - Dust: Extinction mapping, MRN distribution, and challenges of observing the ISM
+    - Gas: Phases of the ISM and how we trace them
+    - Dust and Extinction: All the things we can not see
+      
+[**Week 2**](./week2_objectives.md) - *Feb 5, Feb 7*
 - What are the dynamical drivers of star stuff in the Galaxy?
-  - Introduction to pressure sources in the ISM (magnetic fields, turbulence, self-gravity, radiation, thermal, cosmic rays)
-  - Some Basic Fluid Dynamics (SHOCKS SHOCKS SHOCKS)
-  - Larson's law and other ways we think to measure dynamics
-- Multi-phase magic: Star Formation in the Wild (Orion Complex)
+    - Introduction to pressure sources in the ISM
+    - Macro-scale equilibria in the ISM
+    - Ways we can measure dynamics, e.g. Larson's Law
+   
+[**Week 3**](./week3_objectives.md) - *Feb 14*
+- Some Basic Fluid Dynamics
+    - Using conservation laws 
+    - (SHOCKS SHOCKS SHOCKS)
+- Multi-phase magic: Star Formation in the Wild with the Orion Complex
   - HII regions + (Winds+Supernovae) in the ISM
-  - Case study: PDRs
+    
  ### Molecular Clouds: the birthplaces of stars 
+ [**Week 4**](./week4_objectives.md) - *Feb 21*
  - Why do we care about molecular clouds?
    - The Jean's Length as the scale of thermal vs gravitational pressure
    - Self-gravitation across scales: Bondi accretion
-   - What is a molecular cloud, actually? 
+- What is a molecular cloud, actually?
+   - Case Study: Photodissociation Regions
+   - Virial Equilibrium and back to Larson's Law
+     
+[**Week 5**](./week5_objectives.md) - *Feb 26, Feb 28*
  - How do we observe star formation?
-   - Observing molecular gas: molecular tracers
+   - Cores in molecules and extinction
+ - Population level star formation metrics
    - What's the deal with the Stellar Initial Mass Function?
    - How we see star formation outside the MW: The Kennicutt-Schmidt Relation
+
  ### Protostellar Cores, Clumps, and Clouds: Blobology of Star Formation
+ [**Week 6**](./week6_objectives.md) - *Mar 4, Mar 6*
  - On the brink of collapse: modeling blobs
    - Singular Isothermal Sphere, Bonner-Ebert Spheres
    - Self-similar solutions (Shu models)
  - Angular Momentum: how things go round
    - Disk Formation: Rotating collapse, 1st core, 2nd core
    - Ballistic trajectories and some orbital mechanics
+     
+[**Week 7**](./week7_objectives.md) - *Mar 11, Mar 13*
  - What about magnetic fields?
    - Flux-freezing, magnetic Jean's masses etc.
    - The Magnetic Braking Catastrophe
-   - Non-ideal MHD
- - Detection: When does this become a star anyway?
+   - An introduction to non-ideal MHD
+     
+[**Week 8**](./week8_objectives.md) - *Mar 18, Mar 20*
+ - Detection: When does all this become a star anyway?
    -  YSO tracks: the protostar as a star
-   -  The "birthline" and why ages are hard
-**Midterm**
-## Part 2: Planet-forming Disks: the birthplaces of planets 
-### Disk Modeling and Observation
+   -  The "birthline" and why protostellar aages are hard
+ - YSOs: the IR revolution
+     - Dust opacities again (in disks, this time!)
+     - Spectral Energy Distributions (SEDs)
+       
+[**Week 9: (prep for) + Midterm**](./midterm.md) - *Mar 25, Mar 27*
+
+## Part 2: Planet-forming Disks: the birthplaces of planets
+### Disk Models 101
+[**Week 10**](./week10_objectives.md) - *Apr 1, Apr 3*
 - The wonderful world of disk physics
   - Alpha disks from the ground up
   - LBP Viscous Evolution
   - Angular momentum transport (MRI, GI, winds)
-- Disks in observations: Dust
+    
+### Disks in observation
+[**Week 11**](./week11_objectives.md) - *Apr 8, Apr 10*
+- Dust
   - Spectral Energy Distributions (SEDs) and the class system
   - Long-wavelength emission and intro to radio inteferometry
-  - Dust opacities
-- Disks in observation: Molecules again
+- Molecules again
   - PV diagrams, Keplerian masks, channel maps
   - Introduction to astrochemistry
-- Disks in observations: Accretion
-   - Standard accretion signatures (Halpha)
+- Accretion
+   - Standard accretion signatures (H-alpha)
    - Shocks (again), T-Tauri stars in X-rays
+     
 ### Disks and Dynamics
+[**Week 12**](./week12_objectives.md) - *Apr 15, Apr 17*
 - Gas vs. Dust dynamics
   - Stokes number and dust drift
   - Pressure bumps
   - Collision outcomes: Bouncing, Sticking, Fragmentation
 - Beyond the Steady State: Instabilities
-  - MRI
+  - Magneto-Rotational Instability (MRI)
   - Gravitational Instability (GI)
-  - VSI, RWI 
+  - Other hydro instabilities: VSI, RWI
+    
 ### Protoplanets: Growing up in the Disk
+[**Week 13**](./week13_objectives.md) - *May 1*
 - Size/Stokes number regimes of growth and coagulation
   - coagulation, pebble accretion, streaming instability
   - planetesimals, planetary embryos, runaway and oligarchic growth
 - Planet-disk interaction
   - isolation mass, gap opening, and perturbing disks
   - the mysteries of migration
-  - embedded protoplanets in observations
+  - embedded protoplanets in observation
+    
 ### End of the Gas-Dominated Era
+[**Week 14**](./week14_objectives.md) - *May 6, May 8*
 - Photoevaporation and other gas-clearing mechanisms
 - Collisional evolution and planet-planet interactions
   - Proposed mechanisms in the solar system
 - Debris Disks and the Collisional Cascade
 - Planetary Dynamics: Tidal Migration and Dissipation
+  
 ### Planet Population Properties
+[**Week 15**](./week15_objectives.md) - *May 13, May 15*
 - Population Synthesis Methods
 - Demographics, detection methods, selection effects
 - Internal: Structure, Density, M/R relation
 - Atmosphere: measurements and astrochemistry (again)
+  
+[**Finals Week**](./final_project.md) - Projects due
+
     
 # Course Expectations
-This is a graduate course for early career scientists. In addition to content knowledge, we will be working on building and reinforcing the skills that constitute scientific practice. As part of that you can expect to be asked to use outside sources, engage with the literature, practice technical and programming skills, work collaboratively, and synthesize and communicate information to your colleagues. 
+This is a graduate course for early career scientists. In addition to content knowledge, we will be working on building and reinforcing the skills that constitute scientific practice. As part of that you can expect to be asked to use outside sources, engage with the literature, practice technical and programming skills, work collaboratively, and synthesize and communicate information to your colleagues. Most of the course materials and resources will be hosted on this github repository. As part of the course, you will be made collaborators and asked to upload to this repository and contribute to shared resources (such as the class recaps and annotated bibliography). 
 
-Most of the course materials and resources will be hosted on this github repository. Content is grouped by each week of the course, starting with [week 0](./week_0) for the first day of class. As part of the course, you will be 
-made collaborators and asked to upload to this repository and contribute to shared resources (such as the class recaps and annotated bibliography). 
-
+## Grading
 The grading for the course will be somewhat non-traditional, rather than relying strictly on a weighted average of required assignments, grades will be assigned based on a total accrued amount of points across categories:
 
 | **category** 	| **points** 	| 
@@ -107,10 +170,10 @@ The grading for the course will be somewhat non-traditional, rather than relying
 
 where ranges for passing grades are as follows:
 
-A: [90-100+), B: [80-90), C: [70-80) 
+A: [90-100+), B: [80-90), C: [70-80)
 
 ### *Homework* (60): 
-Required weekly assignments e.g. problem sets and computational assignments due by XX on XX. Will provide ~4 total points each week. 
+Required weekly assignments e.g. problem sets and computational assignments due by XX on XX. Will provide ~4 total points each week. Homeworks should be uploaded to 
 
 ### *Menu* (15+): 
 Assignments on the menu each week provide multiple options to earn toward your grade total (or can be used to supplement points from other categories) -- you can think of this as a slush pile of points up for grabs. These may be turned in any time, but for steady progression, I would highly recommend to aim for ~ 1pt/week. The menu category is meant to award credit for engaging with the course content and generally doing the kinds of activities that comprise "learning" that you may have been doing anyway. Point values are provided as expected ranges for good faith contributions, awarded values are at instructor discretion. Students may choose from the standard menu options below in addition to any weekly 'specials'. 
