@@ -108,6 +108,7 @@ In this course, we will lay the foundation for our current understanding of star
   - Alpha disks from the ground up
   - LBP Viscous Evolution
   - Angular momentum transport (MRI, GI, winds)
+  - Radiation Transport in disk atmospheres
     
 ### Disks in observation
 [**Week 11**](./week11) - *Apr 8, Apr 10*
