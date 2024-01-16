@@ -16,10 +16,12 @@ Template:
 ```
 [(Author et. al, year)](url to ads abstract link) *Paper Title*
 
-Paragraph: Summary of the main point of the paper, in your view. Insights/things of interest in the contents. 
+Paragraph: Summary of the main point of the paper, in your view.
+Insights/things of interest in the contents. 
 
 Paragraph: Relationship to the course material (be specific as possible).
  
-(Optional Paragraph: Questions you had while reading, salient connections to other papers we've talked about)
+(Optional Paragraph: Questions you had while reading,
+ salient connections to other papers we've talked about)
 ```
 
