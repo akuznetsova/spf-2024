@@ -5,6 +5,8 @@ in the title with the date in Mon.-Day format (ex: Jan-29-recap.md).
 (You can also just go into Edit mode, copy the contents and paste them into a new markdown file
 you make in the corresponding directory).
 Remove all the template text (anything between ``` ```) and fill in with your recap.
+When you're ready, submit with the commmit title:
+CLASS RECAP-[NAME]
 ```
 # Class Recap: Week No. - DATE
 ## Topic: 
