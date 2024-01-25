@@ -37,7 +37,7 @@ In this course, we will lay the foundation for our current understanding of star
 ## Part 1: Star Formation in the Galaxy
 ### The Interstellar Medium: the ingredients of planetary systems
 
-[**Week 1**](./week1) - *Jan 29, Jan 31*
+[**Week 1**](./w1/index.md) - *Jan 29, Jan 31*
 - Overview: The Basic Story of Star and Planet Formation
     - Tale as old as time: the Nebular Hypothesis from Immanuel Kant to today 
 - What is star stuff and where does it come from?
