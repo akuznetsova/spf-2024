@@ -32,3 +32,5 @@ source: JWST
 source: Encyclopedia Brit.  
 [<img src="https://github.com/akuznetsova/spf-2024/assets/20684970/a24d1f91-c7d5-4cd3-b9d5-92879ec6fa5a" width=30% height=30%>](https://github.com/akuznetsova/spf-2024/assets/20684970/a24d1f91-c7d5-4cd3-b9d5-92879ec6fa5a)
 
+source:   
+[<img src="https://github.com/akuznetsova/spf-2024/blob/main/w1/submissions/SPF-Schematic-AndrewAyala.jpg" width=30% height=30%>](https://github.com/akuznetsova/spf-2024/blob/main/w1/submissions/SPF-Schematic-AndrewAyala.jpg)
