@@ -31,7 +31,7 @@ This assignment is hosted as a [Jupyter notebook](./HW1-[NAME].ipynb), a copy of
 For ease of dealing with the external packages needed, the notebook is hosted on a publically accessible binder hub at Flatiron Institute. 
 Please read the [instructions](https://wiki.flatironinstitute.org/Public/UsingFiBinder) for using the binder hub.
 
-You can access the binder hub for this course at: [https://binder.flatironinstitute.org/akuznetsova/models](https://binder.flatironinstitute.org/akuznetsova/models)
+You can access the binder hub for this course at: [https://binder.flatironinstitute.org/~akuznetsova/models](https://binder.flatironinstitute.org/~akuznetsova/models)
 or by heading to [https://binder.flatironinstitute.org/](https://binder.flatironinstitute.org/) and entering
 
 owner: `akuznetsova`
