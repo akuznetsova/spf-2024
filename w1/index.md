@@ -42,7 +42,7 @@ The folder will contain the github folder for this course titled `spf-2024` in w
 You can download the notebook you ran and any files you generate directly to your computer using the `Download` button. 
 *Please remember to rename the notebook from the template name prior to submission*
 
-To receive credit for this assignment, please commit your copy of the notebook (with all code executed and plots generated) to the course github in the Assignments folder with the commit title of HOMEWORK 1 - [NAME] and leave a reply in the Assignment thread with a link to the submission.
+To receive credit for this assignment, please commit your copy of the notebook (with all code executed and plots generated) to the course github in the week 1 submissions folder with the commit title of HOMEWORK 1 - [NAME] and leave a reply in the [Assignment thread](https://github.com/akuznetsova/spf-2024/issues/1) with a link to the submission.
 
 ### Final Objectives:  
 (i.e. where we are aiming to be at the end of this course)  
