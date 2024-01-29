@@ -19,3 +19,6 @@ source: NASA
 
 source: [NRAO](https://www.nrao.edu/pr/2012/clumpcores/)  
 [<img src="https://www.nrao.edu/pr/2012/clumpcores/Clump-core_Labels_med.jpg" width=30% height=30%>](https://www.nrao.edu/pr/2012/clumpcores/Clump-core_Labels_med.jpg)
+
+source:  
+[<img src="https://github.com/akuznetsova/spf-2024/blob/main/w1/submissions/SPF-Schematic-Justin.jpeg" width=30% height=30%>](https://github.com/akuznetsova/spf-2024/blob/main/w1/submissions/SPF-Schematic-Justin.jpeg)
