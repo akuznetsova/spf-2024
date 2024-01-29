@@ -16,3 +16,6 @@ source: [R. Longland](https://rlongland.github.io/research/)
 
 source: NASA  
 [<img src="https://github.com/akuznetsova/spf-2024/assets/20684970/5b3ae325-a2e3-4b76-ae9e-2f15cb2494bd" width=30% height=30%>](https://github.com/akuznetsova/spf-2024/assets/20684970/5b3ae325-a2e3-4b76-ae9e-2f15cb2494bd)
+
+source: [NRAO](https://www.nrao.edu/pr/2012/clumpcores/)  
+[<img src="https://www.nrao.edu/pr/2012/clumpcores/Clump-core_Labels_med.jpg" width=30% height=30%>](https://www.nrao.edu/pr/2012/clumpcores/Clump-core_Labels_med.jpg)
