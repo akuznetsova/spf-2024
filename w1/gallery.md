@@ -13,3 +13,6 @@ source: [IGEP](https://www.tu-braunschweig.de/en/igep/research/planet-formation)
 
 source: [R. Longland](https://rlongland.github.io/research/)  
 [<img src="https://github.com/akuznetsova/spf-2024/assets/20684970/f839fe83-7c75-4eca-a28a-7d3ba5ccdb03" width=30% height=30%>](https://github.com/akuznetsova/spf-2024/assets/20684970/f839fe83-7c75-4eca-a28a-7d3ba5ccdb03)
+
+source: NASA
+[<img src="https://github.com/akuznetsova/spf-2024/assets/20684970/5b3ae325-a2e3-4b76-ae9e-2f15cb2494bd" width=30% height=30%>](https://github.com/akuznetsova/spf-2024/assets/20684970/5b3ae325-a2e3-4b76-ae9e-2f15cb2494bd)
