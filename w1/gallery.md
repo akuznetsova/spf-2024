@@ -22,3 +22,9 @@ source: [NRAO](https://www.nrao.edu/pr/2012/clumpcores/)
 
 source:  
 [<img src="https://github.com/akuznetsova/spf-2024/blob/main/w1/submissions/SPF-Schematic-Justin.jpeg" width=30% height=30%>](https://github.com/akuznetsova/spf-2024/blob/main/w1/submissions/SPF-Schematic-Justin.jpeg)
+
+source:[xkcd](https://xkcd.com/2354/)  
+[<img src="https://imgs.xkcd.com/comics/stellar_evolution_2x.png" width=30% height=30%>](https://imgs.xkcd.com/comics/stellar_evolution_2x.png)
+
+source: JWST  
+[<img src="https://github.com/akuznetsova/spf-2024/assets/20684970/5bfab91a-5bf1-4e89-a86d-5115657e3195" width=30% height=30%>](https://github.com/akuznetsova/spf-2024/assets/20684970/5bfab91a-5bf1-4e89-a86d-5115657e3195)
