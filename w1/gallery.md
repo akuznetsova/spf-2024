@@ -28,3 +28,7 @@ source:[xkcd](https://xkcd.com/2354/)
 
 source: JWST  
 [<img src="https://github.com/akuznetsova/spf-2024/assets/20684970/5bfab91a-5bf1-4e89-a86d-5115657e3195" width=30% height=30%>](https://github.com/akuznetsova/spf-2024/assets/20684970/5bfab91a-5bf1-4e89-a86d-5115657e3195)
+
+source: Encyclopedia Brit.  
+[<img src="https://github.com/akuznetsova/spf-2024/assets/20684970/a24d1f91-c7d5-4cd3-b9d5-92879ec6fa5a" width=30% height=30%>](https://github.com/akuznetsova/spf-2024/assets/20684970/a24d1f91-c7d5-4cd3-b9d5-92879ec6fa5a)
+
