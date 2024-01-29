@@ -5,7 +5,7 @@ Email: akuznetsova@flatironinstitute.org
 
 Class meets: Mondays and Wednesdays 2:00PM-3:45PM at the Graduate Center Campus
 
-Office Hours: TBD at TBD (To be decided as a class on the first day)
+Office Hours: Thursdays 10:00am-11:30am CCA 11th floor 
 
 Course Website: https://github.com/akuznetsova/spf-2024
 
