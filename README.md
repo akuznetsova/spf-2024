@@ -181,7 +181,7 @@ where ranges for passing grades are as follows:
 A: [90-100+), B: [80-90), C: [70-80)
 
 ### *Homework* (60): 
-Required weekly assignments e.g. problem sets and computational assignments due by XX on XX. Will provide ~4 total points each week. 
+Required weekly assignments e.g. problem sets and computational assignments, typically due by EOD on Fridays. Will provide ~4 total points each week. 
 
 ### *Menu* (15+): 
 Assignments on the menu each week provide multiple options to earn toward your grade total (or can be used to supplement points from other categories) -- you can think of this as a slush pile of points up for grabs. These may be turned in any time, but for steady progression, I would highly recommend to aim for ~ 1pt/week. The menu category is meant to award credit for engaging with the course content and generally doing the kinds of activities that comprise "learning" that you may have been doing anyway. Point values are provided as expected ranges for good faith contributions, awarded values are at instructor discretion. Students may choose from the standard menu options below in addition to any weekly 'specials'. 
