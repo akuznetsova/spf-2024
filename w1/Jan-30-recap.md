@@ -38,7 +38,7 @@ Star Stuff (ISM):
             - P = power law index
     - Radiative transfer equation: $\frac{dI_\nu}{d\tau_\nu} = S_\nu - I_\nu$
         * gas (line emission):
-            - $\tau_\nu = \kappa_\nu dS$
+            - $`\tau_\nu = \kappa_\nu dS`$
             - $S_\nu = \frac{j_\nu}{\kappa}$
         * dust (Continuum):
             - $\kappa_nu = \rho_d\kappa_nu^{dust}$
