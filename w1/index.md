@@ -20,6 +20,7 @@ A review of some important emission mechanisms and their use as diagnostics of p
     + Line Emisson: Ionization, Recombination, and Collisional Equilibrium
     + Continuum Emission: Bremsstrahlung + Synchrotron (brief cameo)
 
+### [Recap](./Jan-30-recap.md)
 ### Homework Objectives:
 Construct a dust model of the ISM:
 - Get comfortable with the mathematical treatment of size distributions to build physical intuition
