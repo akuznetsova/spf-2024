@@ -29,21 +29,21 @@ Star Stuff (ISM):
           - for $x=\frac{2\pi a}{\lambda}$;  
               + x << 1: Rayleigh scattering  
               + x = ??: Mie theory  
-              + x >> 1: optics regime  
-        + Efficiency factor:   
+              + x >> 1: optics regime
+          + Efficiency factor:   
               - $Q_i =\frac{\sigma_i}{\pi*a^2}$  
-                - refers to how much like coming into a dust grain makes its way out
-            + Wien's law: $\lambda_{max} = \frac{2898\mu m k_B}{T}$
-            + Size distributions: $n(a)da = n_0(\frac{a}{a_{min}})^-P da$
-                - P = power law index
-- Radiative transfer equation: $\frac{dI_\nu}{d\tau_\nu} = S_\nu - I_\nu$
-    + gas (line emission):
-      - $\tau_\nu = \kappa_\nu dS$
-      - $S_\nu = \frac{j_\nu}{\kappa}$
-    + dust (Continuum):
-      - $\kappa_nu = \rho_d\kappa_nu^{dust}$
-      - $\rho_d = n_dm_d$
-- Dust to gas ratio of ISM: 1%
+                  - refers to how much like coming into a dust grain makes its way out  
+            + Wien's law: $\lambda_{max} = \frac{2898\mu m k_B}{T}$  
+            + Size distributions: $n(a)da = n_0(\frac{a}{a_{min}})^{-P} da$  
+                - P = power law index  
+- Radiative transfer equation: $\frac{dI_\nu}{d\tau_\nu} = S_\nu - I_\nu$  
+    + gas (line emission):  
+      - $\tau_\nu = \kappa_\nu dS$  
+      - $S_\nu = \frac{j_\nu}{\kappa}$  
+    + dust (Continuum):  
+      - $\kappa_\nu = \rho_d\kappa_\nu^{dust}$  
+      - $\rho_d = n_d m_d$  
+- Dust to gas ratio of ISM: 1%  
 
 ### Related Resources
 ```
