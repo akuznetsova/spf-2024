@@ -44,13 +44,13 @@ In this course, we will lay the foundation for our current understanding of star
     - Gas: Phases of the ISM and how we trace them
     - Dust and Extinction: All the things we can not see
       
-[**Week 2**](./week2) - *Feb 5, Feb 7*
+[**Week 2**](./w2/index.md) - *Feb 5, Feb 7*
 - What are the dynamical drivers of star stuff in the Galaxy?
     - Introduction to pressure sources in the ISM
     - Macro-scale equilibria in the ISM
     - Ways we can measure dynamics, e.g. Larson's Law
    
-[**Week 3**](./week3) - *Feb 14*
+[**Week 3**](./w3/index.md) - *Feb 14*
 - Some Basic Fluid Dynamics
     - Using conservation laws 
     - (SHOCKS SHOCKS SHOCKS)
@@ -58,7 +58,7 @@ In this course, we will lay the foundation for our current understanding of star
   - HII regions + (Winds+Supernovae) in the ISM
     
  ### Molecular Clouds: the birthplaces of stars 
- [**Week 4**](./week4) - *Feb 21*
+ [**Week 4**](./w4/index.md) - *Feb 21*
  - Why do we care about molecular clouds?
    - The Jean's Length as the scale of thermal vs gravitational pressure
    - Self-gravitation across scales: Bondi accretion
@@ -66,7 +66,7 @@ In this course, we will lay the foundation for our current understanding of star
    - Case Study: Photodissociation Regions
    - Virial Equilibrium and back to Larson's Law
      
-[**Week 5**](./week5) - *Feb 26, Feb 28*
+[**Week 5**](./w5/index.md) - *Feb 26, Feb 28*
  - How do we observe star formation?
    - Cores in molecules and extinction
  - Population level star formation metrics
@@ -74,7 +74,7 @@ In this course, we will lay the foundation for our current understanding of star
    - How we see star formation outside the MW: The Kennicutt-Schmidt Relation
 
  ### Protostellar Cores, Clumps, and Clouds: Blobology of Star Formation
- [**Week 6**](./week6) - *Mar 4, Mar 6*
+ [**Week 6**](./w6/index.md) - *Mar 4, Mar 6*
  - On the brink of collapse: modeling blobs
    - Singular Isothermal Sphere, Bonner-Ebert Spheres
    - Self-similar solutions (Shu models)
@@ -82,7 +82,7 @@ In this course, we will lay the foundation for our current understanding of star
    - Disk Formation: Rotating collapse, 1st core, 2nd core
    - Ballistic trajectories and some orbital mechanics
      
-[**Week 7**](./week7) - *Mar 11, Mar 13*
+[**Week 7**](./w7/index.md) - *Mar 11, Mar 13*
  - What about magnetic fields?
    - Flux-freezing, magnetic Jean's masses etc.
    - The Magnetic Braking Catastrophe
@@ -91,7 +91,7 @@ In this course, we will lay the foundation for our current understanding of star
    - Zeeman splitting, polarization
    - Confounding factors: dust strikes again
      
-[**Week 8**](./week8) - *Mar 18, Mar 20*
+[**Week 8**](./w8/index.md) - *Mar 18, Mar 20*
  - Detection: When does all this become a star anyway?
    -  YSO tracks: the protostar as a star
    -  The "birthline" and why protostellar ages are hard
@@ -103,7 +103,7 @@ In this course, we will lay the foundation for our current understanding of star
 
 ## Part 2: Planet-forming Disks: the birthplaces of planets
 ### Disk Models 101
-[**Week 10**](./week10) - *Apr 1, Apr 3*
+[**Week 10**](./w10/index.md) - *Apr 1, Apr 3*
 - The wonderful world of disk physics
   - Alpha disks from the ground up
   - LBP Viscous Evolution
@@ -111,7 +111,7 @@ In this course, we will lay the foundation for our current understanding of star
   - Radiation Transport in disk atmospheres
     
 ### Disks in observation
-[**Week 11**](./week11) - *Apr 8, Apr 10*
+[**Week 11**](./w11/index.md) - *Apr 8, Apr 10*
 - Dust
   - Spectral Energy Distributions (SEDs) and the class system
   - Long-wavelength emission and intro to radio inteferometry
@@ -123,7 +123,7 @@ In this course, we will lay the foundation for our current understanding of star
    - Shocks (again), T-Tauri stars in X-rays
      
 ### Disks and Dynamics
-[**Week 12**](./week12) - *Apr 15, Apr 17*
+[**Week 12**](./w12/index.md) - *Apr 15, Apr 17*
 - Gas vs. Dust dynamics
   - Stokes number and dust drift
   - Pressure bumps
@@ -134,7 +134,7 @@ In this course, we will lay the foundation for our current understanding of star
   - Other hydro instabilities: VSI, RWI
     
 ### Protoplanets: Growing up in the Disk
-[**Week 13**](./week13) - *May 1*
+[**Week 13**](./w13/index.md) - *May 1*
 - Size/Stokes number regimes of growth and coagulation
   - coagulation, pebble accretion, streaming instability
   - planetesimals, planetary embryos, runaway and oligarchic growth
@@ -144,7 +144,7 @@ In this course, we will lay the foundation for our current understanding of star
   - embedded protoplanets in observation
     
 ### Young Planets: After the Disk 
-[**Week 14**](./week14) - *May 6, May 8*
+[**Week 14**](./w14/index.md) - *May 6, May 8*
 - Photoevaporation and other gas-clearing mechanisms
 - Collisional evolution and planet-planet interactions
   - Proposed mechanisms in the solar system
@@ -153,7 +153,7 @@ In this course, we will lay the foundation for our current understanding of star
 - Young planets: hot start, cold start and internal structure
   
 ### Planet Population Properties
-[**Week 15**](./week15) - *May 13, May 15*
+[**Week 15**](./w15/index.md) - *May 13, May 15*
 - Population Synthesis Methods
 - Demographics, detection methods, selection effects
 - Internal: Structure, Density, M/R relation
