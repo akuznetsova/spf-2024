@@ -10,9 +10,9 @@ If we observe 1 cloud:
 
 However, we usually see multiple clouds:
 - cloud a (emitting) -> $T_a(1-e^{-\tau_a})$
-- cloud b (background) -> $T_b(1-e^{-\tau_b})e^{\tau_a}$
+- cloud b (background) -> $T_b(1-e^{-\tau_b})e^{-\tau_a}$
 
-The total brightness temperature $T_B: T_a(1-e^{-\tau_a}) + T_b(1-e^{-\tau_b})e^{\tau_a}$
+The total brightness temperature $T_B: T_a(1-e^{-\tau_a}) + T_b(1-e^{-\tau_b})e^{-\tau_a}$
 - For small $\tau_a, \tau_b: T_B \simeq T_a\tau_a + T_b\tau_b$
 - $T_B$ = some average source $\overline{T_s} = \frac{T_a\tau_a + T_b\tau_b}{\tau_a + \tau_b}$
 
