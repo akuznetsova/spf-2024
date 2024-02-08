@@ -1,13 +1,3 @@
-```
-Instructions:
-Make a copy of this file in the directory for its corresponding week,replacing the [TEMPLATE]
-in the title with the date in Mon.-Day format (ex: Jan-29-recap.md).
-(You can also just go into Edit mode, copy the contents and paste them into a new markdown file
-you make in the corresponding directory).
-Remove all the template text (anything between ``` ```) and fill in with your recap.
-When you're ready, submit with the commmit title:
-CLASS RECAP-[NAME]
-```
 # Class Recap: Week No. 2 - Feb. 5, 2024
 ## Topic: Introduction to pressure sources in the ISM
 
@@ -34,14 +24,14 @@ If $T_a << T_b$, cloud b's thermal emission is more intense but we get attenuati
 
 When we do absorption studies around the MW, we find cloud populations at two temperature regimes.
 
-| Medium | $T$ [$K$] | $n_H$ [$cm^{-3}$] |
+| Medium | $T$ ($K$) | $n_H$ ($cm^{-3}$) |
 | --- | --- | --- |
 | CNM | 30-100 | 1-10|
 | WNM | 5000-8000 | 0.1 |
 
-(Within MW, we use pressure unit $\frac{P}{k_b}$ [$cm^{-3} K$].) Both CNM/WNM are ~3000 $cm^{-3} K$ given their respective pressure equilibrum.
+(Within MW, we use pressure unit $\frac{P}{k_b}$ ($cm^{-3} K$).) Both CNM/WNM are ~3000 $cm^{-3} K$ given their respective pressure equilibrum.
 
-What controls T in neutral medium? T is an ensemble property representative of where most velocities of atoms sit: $<v> = \sqrt{\frac{3kT}{m_p}}$
+What controls T in neutral medium? T is an ensemble property representative of where most velocities of atoms sit: $\textlangle v\textrangle = \sqrt{\frac{3kT}{m_p}}$
 
 To cool, remove energy from the system.
 1. COOLING: Collisional excitation ("radiative line cooling")
@@ -61,7 +51,7 @@ What sets the rate?
 
 How much energy is lost? Radiative loss $L_R = n_2A_{21}E_{21}$
 
-This is encoded in cooling rate: $\Lambda(T)$ (sometimes written: $n^2\Lambda(T)$)
+This is encoded in cooling rate: $\Lambda(T)$, sometimes written: $n^2\Lambda(T)$
 - Powerful ISM coolants: CI, CII, OI
 - Cooling time $t_{cool}$ = energy/loss rate $\simeq \frac{nkT}{n^2\Lambda(T)}$
     - CNM: 1.4 x $10^5$ yr
