@@ -19,7 +19,7 @@
 1. HW 1 is due by EOD Friday 2/9 in the w1 submissions folder: [Full Instructions](https://github.com/akuznetsova/spf-2024/issues/1)
 
 ### Recaps
-*Feb 5*:   
+*Feb 5*: [recap](./Feb-5-recap.md)
 *Feb 7*:  
 
 ### Menu suggestions
