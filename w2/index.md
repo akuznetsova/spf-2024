@@ -41,4 +41,8 @@ HI 21 cm Survey: [Data](https://www.astro.uni-bonn.de/hisurvey/AllSky_profiles/i
 2. Construct a model to calculate the equilibrium temperature from cooling and heating in the ISM
 
 ** Assignment Instructions **  
-To be posted. 
+This assignment is hosted as a [Jupyter notebook](./HW2-[NAME].ipynb), a copy of which is in this weeks folder.
+To receive credit for this assignment, please commit your copy of the notebook (with all code executed and plots generated) to the course github in the week 2 submissions folder with the commit title of HOMEWORK 2 - [NAME] and leave a reply in the [Assignment thread](https://github.com/akuznetsova/spf-2024/issues/6) with a link to the submission.
+
+
+
