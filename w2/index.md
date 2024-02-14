@@ -20,7 +20,8 @@
 
 ### Recaps
 *Feb 5*: [recap](./Feb-5-recap.md)  
-*Feb 7*:  
+*Feb 7*: [recap](./Feb_7_recap.md)
+
 
 ### Menu suggestions
 *Some suggestions for appropriate menu assignments. You are not limited to these examples nor the posted references*  
