@@ -9,8 +9,8 @@ In this lecture we began with a recap of fluid dynamics which consists of the co
 
 ## Outline 
 
-Consider a cube of length dv, where $\overline{v}$ 
-and rho is the mass density of the cube and $\dm = rho * dv$
+Consider a cube of length $dv$, where $\overline{v}$ 
+and $\rho$ is the mass density of the cube and $dm = \rho * dv$
 
 ### Conservation of Mass
 $\Mass = mass_{in} - mass_{out}$
