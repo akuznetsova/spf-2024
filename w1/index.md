@@ -49,4 +49,4 @@ To receive credit for this assignment, please commit your copy of the notebook (
 (i.e. where we are aiming to be at the end of this course)  
 *Synthesis:* Re-construct the argument for distribution derived in the original (MRN,1977) paper. 
 
-
+### [Solutions](./HW1-solutions.ipynb)
