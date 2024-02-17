@@ -94,5 +94,18 @@ Resource contributions can go here.
 [Links]URL can be directly inserted.
 You can upload files into the relevant folder and link them with a local relative link: [name][./filename.extension]
 (You can even copy paste images straight into the github editor!)
+
+These are related to homeowork # 2
+Tuples: - https://www.w3schools.com/python/python_tuples.asp
+Numpy Exponential: https://numpy.org/doc/stable/reference/generated/numpy.exp.html
+Matplotlib (Scaling x or y axis): https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.yscale.html
+Numpy logspace: https://numpy.org/doc/stable/reference/generated/numpy.logspace.html
+Scipy Optimize Newton: https://docs.scipy.org/doc/scipy/reference/generated/scipy.optimize.newton.html#scipy.optimize.newton
+Python: What are classes?: https://docs.python.org/3/tutorial/classes.html
+Stackoverflow on python classes: https://stackoverflow.com/questions/33072570/when-should-i-be-using-classes-in-python
+Reddit thread explaining python classes: https://www.reddit.com/r/learnpython/comments/11sebbg/been_using_python_for_3_years_never_used_a_class/
+Additional resources for what a python class is with examples: https://realpython.com/python-classes/
+ 
+
 ```
 
