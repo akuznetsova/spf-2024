@@ -24,6 +24,6 @@ Time to get into the literature! We've been putting a lot of the ideas we've bee
 2. How do I find a paper?  
     Did you know that since the 90's there's been a [star formation newsletter?](https://www.starformation.news/). Even though its not physically mailed around anymore, lots of star formation scientists still submit their abstracts to it whenever their papers come out. The paper doesn't have to be entirely on something we've talked about directly in class so far, but you should be able to point out at least one main connection to the material we've covered (stick to star formation for right now please). You don't have to use the newsletter, it just might help you find more relevant in-field papers quicker. You can also just pick any paper you like from the arxiv or ADS.
 
-To submit, you can add a markdown file or pdf (if you would like to use latex or something similar) to the w5 submissions folder with the title HW4-[NAME] and include a link to the submission in the Assignment thread. 
+To submit, you can add a markdown file or pdf (if you would like to use latex or something similar) to the w4 submissions folder with the title HW4-[NAME] and include a link to the submission in the Assignment thread. 
 
 In addition, adding an abridged version of your contribution to the [annotated bibliography](./bibliography/index.md) will garner you menu points. 
