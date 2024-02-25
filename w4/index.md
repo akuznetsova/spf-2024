@@ -15,5 +15,15 @@ II. What is a molecular cloud, actually?
 ### Recaps
 *Feb 21*: 
 
-### HW 4 Objectives
-*TBD*
+### HW 4 Objectives (due Friday EOD 03/01) 
+Time to get into the literature! We've been putting a lot of the ideas we've been learning into practice with coding and plots, but now that we're a few weeks into the course, we've built enough of a broad base that we can start practicing engaging with the literature on these topics. For homework 5, I'd like everyone to pick out a star formation paper to read and write a summary about. 
+
+1. What should be in your summary?
+     Well, for one, there's a list of guiding questions in the [annotated bibliography](./bibliography/index.md) to think about. Aim for a plain language undergraduate level explanation of the premise, methods, and results to somebody out of field. [astrobites](https://astrobites.org/) is a good source of inspiration. (Aim for a ~ 1ish page (2 pg MAX) summary, figures are welcome, but they won't go toward the page count) 
+   
+2. How do I find a paper?  
+    Did you know that since the 90's there's been a [star formation newsletter?](https://www.starformation.news/). Even though its not physically mailed around anymore, lots of star formation scientists still submit their abstracts to it whenever their papers come out. The paper doesn't have to be entirely on something we've talked about directly in class so far, but you should be able to point out at least one main connection to the material we've covered (stick to star formation for right now please). You don't have to use the newsletter, it just might help you find more relevant in-field papers quicker. You can also just pick any paper you like from the arxiv or ADS.
+
+To submit, you can add a markdown file or pdf (if you would like to use latex or something similar) to the w5 submissions folder with the title HW4-[NAME] and include a link to the submission in the Assignment thread. 
+
+In addition, adding an abridged version of your contribution to the [annotated bibliography](./bibliography/index.md) will garner you menu points. 
