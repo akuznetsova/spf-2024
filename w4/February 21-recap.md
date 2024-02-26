@@ -39,7 +39,7 @@ $M_j \sim  \frac{4\pi}{3}(\frac{L_j}{2})^2 \bar{\rho} = \frac{1}{a}(\frac{\pi^5}
 The Real values:\
 $R_j = 1.2pc(\frac{T}{10})^{\frac{1}{2}} (\frac{n}{100cm^3})^{-\frac{1}{2}}$ \
 $M_j = 10M_{\odot}(\frac{T}{10})^{\frac{3}{2}} (\frac{n}{100cm^3})^{-\frac{1}{2}}$ \
-$n =4e^4 cm^{-3}$ \
+$n =4 \times 10^4 cm^{-3}$ \
 \
 
 To be continued....
