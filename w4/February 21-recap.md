@@ -42,17 +42,18 @@ $M_j = 10M_{\odot}(\frac{T}{10})^{\frac{3}{2}} (\frac{n}{100cm^3})^{-\frac{1}{2}
 $n =4 \times 10^4 cm^{-3}$ \ \
 
 Formation:
-- On dust grains (very slow)
+* On dust grains (very slow)\
+\
 Destruction: Dissociation
--binding energy : 4.5eV
--1 eV = $1.6 \times 10^{-12}$ ergs
--$k_b = 1.37 \times 10^{-16}$ ergs
+* binding energy : 4.5eV
+* 1 eV = $1.6 \times 10^{-12}$ ergs
+* $k_b$ = $1.37 \times 10^{-16}$ ergs
 Thermal Dissociation (collisions):\
 $\frac{5}{2}kT = 4.5 eV$\
 $T \approx 10^4 K$\
 Photo Dissociation:\
 $\frac{hc}{\lambda} = 4.5eV$ \
-$\lambda = 0.2 \mu m$ \
+$\lambda = 0.2 \mu m$ [UV] \
 
 
 
