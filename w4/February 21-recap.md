@@ -29,8 +29,8 @@ If $w^2>0$ we get a wave\
 If $w^2<0$ we get a growth (instability) \
 \
 To find the thresholds for the unstable modes:\
-$k_j = (\frac{ 4 \pi G \bar{\rho}}{c_s^2})^{\frac{1}{2}} $\
-$L = \frac{2\pi}{k} $ where $L>L_j> (\frac{\pi}{G\bar{\rho}})^{\frac{1}{2}c_s$  Jean's Length \
+$k_j = (\frac{ 4 \pi G \bar{\rho}}{c_s^2})^{\frac{1}{2}} $ \
+$L = \frac{2\pi}{k} $ where $L>L_j> (\frac{\pi}{G\bar{\rho}})^{\frac{1}{2}}c_s $  Jean's Length \
 $p_{th} = \rho c_s^2 $ \
 $p_grav \sim \frac{\partial \rho}{\partial R}R \sim \rho \Delta \Phi R \sim \rho \frac{GMR}{R_2^2}$ \
 $R_j \sim \frac{c_s}{\rho^{\frac{1}{2}}} $ \
