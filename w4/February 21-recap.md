@@ -39,8 +39,23 @@ $M_j \sim  \frac{4\pi}{3}(\frac{L_j}{2})^2 \bar{\rho} = \frac{1}{a}(\frac{\pi^5}
 The Real values:\
 $R_j = 1.2pc(\frac{T}{10})^{\frac{1}{2}} (\frac{n}{100cm^3})^{-\frac{1}{2}}$ \
 $M_j = 10M_{\odot}(\frac{T}{10})^{\frac{3}{2}} (\frac{n}{100cm^3})^{-\frac{1}{2}}$ \
-$n =4 \times 10^4 cm^{-3}$ \
-\
+$n =4 \times 10^4 cm^{-3}$ \ \
+
+Formation:
+- On dust grains (very slow)
+Destruction: Dissociation
+-binding energy : 4.5eV
+-1 eV = $1.6 \times 10^{-12}$ ergs
+-$k_b = 1.37 \times 10^{-16}$ ergs
+Thermal Dissociation (collisions):\
+$\frac{5}{2}kT = 4.5 eV$\
+$T \approx 10^4 K$\
+Photo Dissociation:\
+$\frac{hc}{\lambda} = 4.5eV$ \
+$\lambda = 0.2 \mu m$ \
+
+
+
 
 To be continued....
 
