@@ -21,7 +21,7 @@ We end up with:\
 $\frac{\partial^2 \rho'}{\partial t^2} -c_s^s \frac{\partial^2 P'}{\partial x^2} = 4 \pi G \bar{\rho} \rho'$\
 Using the relationship:\
 $\rho (x,t) \propto e^{i(wt-kx)}$ \
-The equations goes to :
+The equations goes to :\
 $-w^2 e^{i(wt-kx)} - c_s^2 k^2 e^{i(wt-kx)} = 4 \pi G \bar{\rho}e^{i(wt-kx)}$ \
 Solving for $w^2$ we get the dispersion relation:
 $w^2 = k^2c_s^2 - 4 \pi G \bar{\rho}$\
@@ -29,11 +29,11 @@ If $w^2>0$ we get a wave\
 If $w^2<0$ we get a growth (instability) \
 \
 To find the thresholds for the unstable modes:\
-$k_j = (\frac{ 4 \pi G \bar{\rho}}{c_s^2})^{\frac{1}{2}} $ \
-$L = \frac{2\pi}{k}$ where $L>L_j> (\frac{\pi}{G\bar{\rho}})^{\frac{1}{2}}c_s $  Jean's Length \
-$p_{th} = \rho c_s^2 $ \
+$k_j=(\frac{ 4 \pi G \bar{\rho}}{c_s^2})^{\frac{1}{2}}$  \
+$L = \frac{2\pi}{k}$ where $L>L_j> (\frac{\pi}{G\bar{\rho}})^{\frac{1}{2}}c_s$  Jean's Length \
+$p_{th} = \rho c_s^2$ \
 $p_grav \sim \frac{\partial \rho}{\partial R}R \sim \rho \Delta \Phi R \sim \rho \frac{GMR}{R_2^2}$ \
-$R_j \sim \frac{c_s}{\rho^{\frac{1}{2}}} $ \
+$R_j \sim \frac{c_s}{\rho^{\frac{1}{2}}}$ \
 $M_j \sim  \frac{4\pi}{3}(\frac{L_j}{2})^2 \bar{\rho} = \frac{1}{a}(\frac{\pi^5}{G^3 \bar{\rho}})^{\frac{1}{2}} c_s^2$ \
 \
 The Real values:\
