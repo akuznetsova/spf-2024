@@ -15,13 +15,13 @@ $\frac{\partial u'}{\partial t} + \frac{1}{\bar\rho} \frac{\partial p'}{\partial
 
 ###### We then take the time derivation of Mass and the spatial derivation of momentum and plug in the Poisson equation:
 ###### Poisson:
-$\Delta^2 \Phi = 4\pi G \rho$ \
+$\Delta^2 \Phi = 4\pi G \rho$ 
 
 ###### We end up with:
 $\frac{\partial^2 \rho'}{\partial t^2} -c_s^s \frac{\partial^2 P'}{\partial x^2} = 4 \pi G \bar{\rho} \rho'$\
 ###### Using the relationship:
-$\rho (x,t) \propto e^{i(wt-kx)}$ \
-######The equations goes to :
+$\rho (x,t) \propto e^{i(wt-kx)}$ 
+###### The equations goes to :
 $-w^2 e^{i(wt-kx)} - c_s^2 k^2 e^{i(wt-kx)} = 4 \pi G \bar{\rho}e^{i(wt-kx)}$ \
 ###### Solving for $w^2$ we get the dispersion relation:
 $w^2 = k^2c_s^2 - 4 \pi G \bar{\rho}$\
