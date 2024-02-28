@@ -9,9 +9,9 @@ In class, we dicussed Molecular Clouds as they are where star can form and when 
 
 ###### Thermal Pressure v Gravity:
 ###### Mass:
-$\frac{\partial \rho'}{\partial t} + \bar{p} \frac{\partial u'}{\partial x} = 0$\
+$\frac{\partial \rho'}{\partial t} + \bar{p} \frac{\partial u'}{\partial x} = 0$
 ###### Momentum:
-$\frac{\partial u'}{\partial t} + \frac{1}{\bar\rho} \frac{\partial p'}{\partial x} = - \frac{\partial \Phi}{\partial x}$\
+$\frac{\partial u'}{\partial t} + \frac{1}{\bar\rho} \frac{\partial p'}{\partial x} = - \frac{\partial \Phi}{\partial x}$
 
 ###### We then take the time derivation of Mass and the spatial derivation of momentum and plug in the Poisson equation:
 ###### Poisson:
@@ -22,7 +22,7 @@ $\frac{\partial^2 \rho'}{\partial t^2} -c_s^s \frac{\partial^2 P'}{\partial x^2}
 ###### Using the relationship:
 $\rho (x,t) \propto e^{i(wt-kx)}$ 
 ###### The equations goes to :
-$-w^2 e^{i(wt-kx)} - c_s^2 k^2 e^{i(wt-kx)} = 4 \pi G \bar{\rho}e^{i(wt-kx)}$ \
+$-w^2 e^{i(wt-kx)} - c_s^2 k^2 e^{i(wt-kx)} = 4 \pi G \bar{\rho}e^{i(wt-kx)}$ 
 ###### Solving for $w^2$ we get the dispersion relation:
 $w^2 = k^2c_s^2 - 4 \pi G \bar{\rho}$\
 If $w^2>0$ we get a wave\
@@ -50,7 +50,7 @@ $n =4 \times 10^4 cm^{-3}$
 * $k_b$ = $1.37 \times 10^{-16}$ ergs
 ###### Thermal Dissociation (collisions):\
 $\frac{5}{2}kT = 4.5 eV$\
-$T \approx 10^4 K$\
+$T \approx 10^4 K$
 ###### Photo Dissociation:
 $\frac{hc}{\lambda} = 4.5eV$ \
 $\lambda = 0.2 \mu m$ [UV] \
