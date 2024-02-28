@@ -18,7 +18,7 @@ $\frac{\partial u'}{\partial t} + \frac{1}{\bar\rho} \frac{\partial p'}{\partial
 $\Delta^2 \Phi = 4\pi G \rho$ 
 
 ###### We end up with:
-$\frac{\partial^2 \rho'}{\partial t^2} -c_s^s \frac{\partial^2 P'}{\partial x^2} = 4 \pi G \bar{\rho} \rho'$\
+$\frac{\partial^2 \rho'}{\partial t^2} -c_s^s \frac{\partial^2 P'}{\partial x^2} = 4 \pi G \bar{\rho} \rho'$
 ###### Using the relationship:
 $\rho (x,t) \propto e^{i(wt-kx)}$ 
 ###### The equations goes to :
@@ -57,7 +57,7 @@ $\lambda = 0.2 \mu m$ [UV] \
 $\lambda = \frac{2898 \mu m}{T}$  where T= 20000K
 ###### Interstellar Radiation Field (ISRF)
 * Habing (1968)
-* $1G_0 = 1.6 \times 10^{-3}$ ergs\$cm^2$\s
+* $1G_0 = 1.6 \times 10^{-3}$ ergs\ $cm^2$ \s
 ###### Self-Shielding
 * $A_{\nu} > 0.3 for H_2$
 * $A_{\nu} \sim \frac{N_H}{1.8 \times 10^{21}cm^{-2}} where N_H = 6 \times 10^{20}$
