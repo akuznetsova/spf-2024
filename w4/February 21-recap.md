@@ -26,7 +26,7 @@ $-w^2 e^{i(wt-kx)} - c_s^2 k^2 e^{i(wt-kx)} = 4 \pi G \bar{\rho}e^{i(wt-kx)}$ \
 ###### Solving for $w^2$ we get the dispersion relation:
 $w^2 = k^2c_s^2 - 4 \pi G \bar{\rho}$\
 If $w^2>0$ we get a wave\
-If $w^2<0$ we get a growth (instability) \
+If $w^2<0$ we get a growth (instability) 
 
 ###### To find the thresholds for the unstable modes:
 $k_j=(\frac{ 4 \pi G \bar{\rho}}{c_s^2})^{\frac{1}{2}}$  \
@@ -34,7 +34,7 @@ $L = \frac{2\pi}{k}$ where $L>L_j> (\frac{\pi}{G\bar{\rho}})^{\frac{1}{2}}c_s$  
 $p_{th} = \rho c_s^2$ \
 $p_grav \sim \frac{\partial \rho}{\partial R}R \sim \rho \Delta \Phi R \sim \rho \frac{GMR}{R_2^2}$ \
 $R_j \sim \frac{c_s}{\rho^{\frac{1}{2}}}$ \
-$M_j \sim  \frac{4\pi}{3}(\frac{L_j}{2})^2 \bar{\rho} = \frac{1}{a}(\frac{\pi^5}{G^3 \bar{\rho}})^{\frac{1}{2}} c_s^2$ \
+$M_j \sim  \frac{4\pi}{3}(\frac{L_j}{2})^2 \bar{\rho} = \frac{1}{a}(\frac{\pi^5}{G^3 \bar{\rho}})^{\frac{1}{2}} c_s^2$ 
 
 ###### The Real values:
 $R_j = 1.2pc(\frac{T}{10})^{\frac{1}{2}} (\frac{n}{100cm^3})^{-\frac{1}{2}}$ \
@@ -42,7 +42,7 @@ $M_j = 10M_{\odot}(\frac{T}{10})^{\frac{3}{2}} (\frac{n}{100cm^3})^{-\frac{1}{2}
 $n =4 \times 10^4 cm^{-3}$ 
 
 ###### Formation:
-* On dust grains (very slow)\
+* On dust grains (very slow)
 
 ###### Destruction: Dissociation
 * binding energy : 4.5eV
@@ -51,7 +51,7 @@ $n =4 \times 10^4 cm^{-3}$
 ###### Thermal Dissociation (collisions):\
 $\frac{5}{2}kT = 4.5 eV$\
 $T \approx 10^4 K$\
-###### Photo Dissociation:\
+###### Photo Dissociation:
 $\frac{hc}{\lambda} = 4.5eV$ \
 $\lambda = 0.2 \mu m$ [UV] \
 $\lambda = \frac{2898 \mu m}{T}$  where T= 20000K
