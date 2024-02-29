@@ -89,11 +89,7 @@ What does it mean that $H_{obs} > H_{HSEQ}$?
 Open question: what is moving ISM around?  
 
 ### Related Resources
-```
-Resource contributions can go here.  
-[Links]URL can be directly inserted.
-You can upload files into the relevant folder and link them with a local relative link: [name][./filename.extension]
-(You can even copy paste images straight into the github editor!)
+
 
 These are related to homeowork # 2
 Tuples: - https://www.w3schools.com/python/python_tuples.asp
@@ -106,6 +102,5 @@ Stackoverflow on python classes: https://stackoverflow.com/questions/33072570/wh
 Reddit thread explaining python classes: https://www.reddit.com/r/learnpython/comments/11sebbg/been_using_python_for_3_years_never_used_a_class/
 Additional resources for what a python class is with examples: https://realpython.com/python-classes/
  
-
-```
+Thermal Phases of the ISM: https://ned.ipac.caltech.edu/level5/March02/Begelman/Begel.html
 
