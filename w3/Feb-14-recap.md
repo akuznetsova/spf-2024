@@ -93,82 +93,66 @@ Type 1a:
 white dwarf binaries
 $M_enj: 4 M_\odot$
 
-<b>Three phases:<b/>
+**Three phases:** 
 
-$1$ Free expansion
-    
-$2$ Energy-conserving
-    
-$3$ Momentum conserving
+1. Free expansion  
+2. Energy-conserving  
+3. Momentum conserving  
 
-<b> In free expansion </b>
+**In free expansion**  
     
-$E_0v 10^51 ergs = \frac {1}{2}mv^2$
+$E_0 =  10^51 ergs = \frac{1}{2} mv^2$  
     
-$R = V_ej$ x $t (KE_sn \approx KE_amb)$
+$R = V_{ej} \times t (KE_{sn} \sim KE_{amb})$
     
-${\rho}_1 = \frac{M_ej}{\frac{4}{3}{\pi}R^3} --> R_fe = (\frac{3M_ej}{4{\pi}{\rho}_1}^\frac{1}{3} \approx 2.2(\frac{M_ej}{M_\odot})(\frac{m_H}{cm^-3})^\frac{-1}{3} pc$
+$\rho_1 = \frac{M_{ej}}{\frac{4}{3}\pi R^3} \rightarrow R_fe = \left(\frac{3 M_{ej}}{4 \pi\rho_1}^{\frac{1}{3}} \sim 2.2(\frac{M_{ej}}{M_\odot}\right) \left(\frac{m_H}{cm^-3} \right)^{\frac{-1}{3}} pc$
     
-<b> In energy conserving </b>
+**In energy conserving**  
     
-$V_ej >> c_s$
+$V_{ej} >> c_s$
     
-$T_2 = 2 x 10^9 (\frac {v}{10^4 km/s})^2 K$
+$T_2 = 2 \times 10^9 \left(\frac{v}{10^4 km/s}\right)^2 K$  
 
-- no radiative loss
-- adiabatic expansion
-- "Sedov-Taylor" phase
+- no radiative loss  
+- adiabatic expansion  
+- "Sedov-Taylor" phase  
     
-$E_0 = E(t) \propto {\rho}_1^{\alpha}t^3R^{\gamma}$
+$E_0 = E(t) \propto \rho_1^{\alpha} t^3 R^{\gamma}$
     
-$R \propto \frac{E_0}{{\rho}_1}^\frac{1}{5}  t^\frac{2}{5} --> R = R_0\frac{E_0}{{\rho}_1}^\frac{1}{5} t^{2}{5}$
+$R \propto \frac{E_0}{\rho_1}^{\frac{1}{5}}  t^{\frac{2}{5}} \rightarrow R = R_0 \frac{E_0}{\rho_1}^{\frac{1}{5}} t^{\frac{2}{5}}$  
     
-$R(t_fe) = R_fe$
+$R(t_{fe}) = R_{fe}$
     
-<b> In momentum conserving </b>
+**In momentum conserving**  
     
-Remember that:
+Remember that:  
     
-$v \propto \frac{dR}{dt} \alpha t^\frac{-3}{5}
-
+$v \propto \frac{dR}{dt} \alpha t^{\frac{-3}{5}}$
+  
 $T < 10^6K$
 
-snowplow phase
+snowplow phase  
 
-mv = constant
+mv = constant  
 
-$ {\rho}_1R^3\frac{dR}{dt}$ = constant
+$\rho_1 R^3 \frac{dR}{dt}$ = constant
 
-$\int R^3dR$ = $\int \frac{const.}{{\rho}_1}$ x dt
+$\int R^3 dR$ = $\int \frac{\mathrm{const.}}{\rho_1} \times dt$
 
 $R^4 \propto t$
 
-$R \propto t^\frac{1}{4}$
+$R \propto t^{\frac{1}{4}}$  
 
-$\frac{dR}{dt}$ $\propto v {\alpha}t^\frac{-3}{4}$
+$\frac{dR}{dt}$ $\propto v {\alpha} t^{\frac{-3}{4}}$  
 
-$v \approx c_s$
+$v \sim c_s $
 
-<b> Some assumptions: </b>
-
-$1. {\rho}_1$ is uniform.
-
-$2. Ly{\alpha}$ cooling is $100$ percent effective when $T = 10^6K$
+**Some assumptions:**  
+1. ${\rho}_1$ is uniform.  
+2. $Ly_{\alpha}$ cooling is 100 percent effective when $T \lessim 10^6 K$  
 
 How do supernovae inject turbulence into the ISM?
 
 Rayleigh-Taylor instability introduces Kevin-Hemholtz instabilkity.
 
-   
 
-
-
-
-```python
-
-```
-
-
-```python
-
-```
