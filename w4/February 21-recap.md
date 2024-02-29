@@ -32,7 +32,7 @@ If $w^2<0$ we get a growth (instability)
 $k_j=(\frac{ 4 \pi G \bar{\rho}}{c_s^2})^{\frac{1}{2}}$  \
 $L = \frac{2\pi}{k}$ where $L>L_j> (\frac{\pi}{G\bar{\rho}})^{\frac{1}{2}}c_s$  Jean's Length \
 $p_{th} = \rho c_s^2$ \
-$p_grav \sim \frac{\partial \rho}{\partial R}R \sim \rho \Delta \Phi R \sim \rho \frac{GMR}{R_2^2}$ \
+$p_{grav} \sim \frac{\partial \rho}{\partial R}R \sim \rho \Delta \Phi R \sim \rho \frac{GMR}{R_2^2}$ \
 $R_j \sim \frac{c_s}{\rho^{\frac{1}{2}}}$ \
 $M_j \sim  \frac{4\pi}{3}(\frac{L_j}{2})^2 \bar{\rho} = \frac{1}{a}(\frac{\pi^5}{G^3 \bar{\rho}})^{\frac{1}{2}} c_s^2$ 
 
@@ -54,13 +54,13 @@ $T \approx 10^4 K$
 ###### Photo Dissociation:
 $\frac{hc}{\lambda} = 4.5eV$ \
 $\lambda = 0.2 \mu m$ [UV] \
-$\lambda = \frac{2898 \mu m}{T}$  where T= 20000K
+$\lambda = \frac{2898 \mu m}{T}$  where $T= 20000K$
 ###### Interstellar Radiation Field (ISRF)
 * Habing (1968)
 * $1G_0 = 1.6 \times 10^{-3}$ ergs\ $cm^2$ \s
 ###### Self-Shielding
 * $A_{\nu} > 0.3 for H_2$
-* $A_{\nu} \sim \frac{N_H}{1.8 \times 10^{21}cm^{-2}} where N_H = 6 \times 10^{20}$
+* $A_{\nu} \sim \frac{N_H}{1.8 \times 10^{21}cm^{-2}}$ where $N_H = 6 \times 10^{20}$
 * $\Delta S \cong 200pc$ >> molecular clouds
 
 
