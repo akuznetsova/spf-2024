@@ -21,5 +21,6 @@ Motivation: Stars don't form in isolation. We observe star-forming regions withi
 *Feb 28*:  
 
 ### References:
+[Kennicutt+Evans,2012](http://www2.physics.umanitoba.ca/u/english/teachwebpages/2017winter4320/papers/KennicuttEvansMainSeq_annurev-astro-081811-125610.pdf): "Star Formation in the Milky Way and Nearby Galaxies" a review paper on relevant star formation metrics we discussed in class
 
 ### HW5: TBD
