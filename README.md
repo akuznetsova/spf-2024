@@ -208,8 +208,10 @@ Assignments on the menu each week provide multiple options to earn toward your g
 > Making mistakes is part of learning. If you would like to earn points back on a homework, you may re-submit the corrected assignment with a reflection component. The reflection should address the source of the initial error and the reasoning for the revised solution. Reflections may be submitted in written form with the resubmission or as a discussion during office hours/by appt. By its nature, this is easier to complete sooner rather than later.
 
 ### *Midterm* (10):
-The midterm consists of a contribution to a class project contextualizing observations of star formation across Galactic scales and environment. The midterm will take place at the conclusion of Part I in class (tentatively) on Mar 27 . (9pts) Each student will be responsible for the presentation of their individual contribution and participation in the discussion on the day of the midterm. Details to follow in class.
+The midterm consists of a contribution to a class project contextualizing observations of star formation across Galactic scales and environment. The midterm will take place at the conclusion of Part I in class on Mar 27.
+(9pts) Each student will be responsible for the presentation of their individual contribution and participation in the discussion on the day of the midterm.  
 (1 pt) Attend a brief meeting with the instructor to cross-check grade records and provide/receive feedback on course progression.  
+*[Midterm Instructions](https://github.com/akuznetsova/spf-2024/issues/12)*
 
 ### *Final* (15):
 For the final, students have the choice of (1) a longer form research project with a modeling component or (2) a one hour oral final exam. By X date, students will have submitted their pitches for the final project topic or scheduled a date/time for the final examination. 
