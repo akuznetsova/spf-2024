@@ -13,7 +13,7 @@ II. What is a molecular cloud, actually?
 + Case study: Orion
 
 ### Recaps
-*Feb 21*: 
+[*Feb 21*](https://github.com/akuznetsova/spf-2024/blob/main/w4/February%2021-recap.md)
 
 ### HW 4 Objectives (due Friday EOD 03/01) 
 Time to get into the literature! We've been putting a lot of the ideas we've been learning into practice with coding and plots, but now that we're a few weeks into the course, we've built enough of a broad base that we can start practicing engaging with the literature on these topics. For homework 5, I'd like everyone to pick out a star formation paper to read and write a summary about. 
