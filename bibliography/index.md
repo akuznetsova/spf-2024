@@ -24,15 +24,15 @@ Paragraph: Relationship to the course material (be specific as possible).
 (Optional Paragraph: Questions you had while reading,
  salient connections to other papers we've talked about)
 ```
-```
+
 [Kritsuk et. al. 2021](https://arxiv.org/abs/1309.5926) 
 *A supersonic turbulence origin of Larson's laws*
 
 The paper takes measurements made out of ISM simulations and attempts to understand how Larson's law hold up. It describes the simulations in detail, and discusses specific effects such as gravity, and their relevance to the outcomes of the simulations. The paper determines that Larson's laws do indeed hold up at larger scales on the 0.1 - 50 pc order, and are a sign of kinetic energy entering a system. It takes the importance of molecular clouds in star formation theory, and works to understand how turbulence and gravity align with Larson's laws, 
 
 This paper obviously discusses Larson's laws, of which we discussed the size-linewidth relation in class. As discussed in class, Larson found the relation as a result of a molecular cloud's internal velocity dispersion, cloud size, and mass. The clouds are theorized to have formed due to regular gravitational turbulence, as well as supersonic turbulence, which we were better able to understand through the example of a SNe remnant.
-```
-```
+
+
 [Bonilla-Barroso et. al. 2022](https://ui.adsabs.harvard.edu/abs/2022MNRAS.511.4801B/abstract) 
 *Gravity or turbulence V: star-forming regions undergoing violent relaxation*
 
@@ -40,4 +40,4 @@ In this paper, Bonilla-Barroso et. al. explore star cluster formation through si
 they found that the the global collapse simulations had a relatively flat velocity dispersion. The turbulence simulations showed a range in velocity dispersions, with higher velocity dispersions being associated with higher mass stars, showing a clear difference between the collapse and turbulence scenarios! The ONC histograms also show relatively flat velocity dispersion with no relationship to the masses binned, which visually looked a lot like the collapse scenario. 
 
 I found this paper to be extremely clear to read (thanks Aleksandra!) The paper itself discusses the gravitational collapse vs turbulence star formation scenarios that we discussed in class, and puts them to the test against empirical data (from the ONC which we also learned about in class). This method of comparison is a lot easier on my brain than having to explicitly try and interpret results from a simulation standing on its own. The paper also briefly touches on concepts that are integral to understanding how overdensities play a role in forming stars, namely Larson's law and the Jeans mass. The paper had a clear goal and took the reader from start to finish, and I would highly recommend reading this to see how what we have learned practically applies.
-```
+
