@@ -23,4 +23,10 @@ Motivation: Stars don't form in isolation. We observe star-forming regions withi
 ### References:
 [Kennicutt+Evans,2012](http://www2.physics.umanitoba.ca/u/english/teachwebpages/2017winter4320/papers/KennicuttEvansMainSeq_annurev-astro-081811-125610.pdf): "Star Formation in the Milky Way and Nearby Galaxies" a review paper on relevant star formation metrics we discussed in class
 
-### HW5: TBD
+### HW 5 Objectives
+1. Learn a method of numerically integrating ODEs
+2. Use this method to explore the Bonner-Ebert system, solving the Lane-Emden Equation for the density distribution of protostellar cores
+
+**Assignment Instructions**
+This assignment is hosted as a [Jupyter notebook](./HW5-[NAME].ipynb), a copy of which is in this weeks folder.
+To receive credit for this assignment, please commit your copy of the notebook (with all code executed and plots generated) to the course github in the week 5 submissions folder with the commit title of HOMEWORK 5 - [NAME] and leave a reply in the [Assignment thread](https://github.com/akuznetsova/spf-2024/issues/13) with a link to the submission.
