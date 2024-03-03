@@ -13,7 +13,7 @@ II. Supernova Remnants
  + Understanding SNR in terms of shocks
 
 ### Recaps
-*Feb 14*: 
+[*Feb 14*:](./Feb-14-recap.md)
 
 
 ### HW 3 Objectives
