@@ -65,3 +65,23 @@ $\rho(\xi_1) = \rho_{amb} (\rho_c/\rho_{amb}$ (Ebert, 1955)
 $\xi_1 \rightarrow \infty$, $\rho_c \rightarrow \infty$
 
 $\rho = c^{2}_{s} r^{-2}/2 \pi G$ known as the Singular Isothermal Solution (SIS)
+
+
+#### Isothermal Shock
+
+$\rho_2/\rho_1 = M^{2}_{1} = (v_s/c_s)^{2}$
+
+$P_2 = (\rho_2/\rho_1)P_1 = \rho_1 v^{2}_{s}$
+
+$\frac{4 \pi}{3}R^{3} \alpha_2 n^{2}_{e} = \frac{4 \pi}{3}R^{3}_s \alpha_2 n^{2}_e$
+
+$n_e = (R_s/R)^{3/2}n_1$ 
+
+
+
+$P_{HII} = 2 n_e k T_e$
+
+$n_{1} m_{H} (\frac{dR}{dt}^2) = 2k T_e n_1 (R_s/R)^{3/2}$
+
+
+$R = R_s [1 + (\frac{2kT_{e}/m_H}{R_s})^{1/2} (t-t_{break}) ]^{4/7}$
