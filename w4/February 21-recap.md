@@ -76,10 +76,4 @@ You can put questions that came up in class, or that you have yourself related t
 ```
 
 ### Related Resources
-```
-Resource contributions can go here.  
-[Links]URL can be directly inserted.
-You can upload files into the relevant folder and link them with a local relative link: [name][./filename.extension]
-(You can even copy paste images straight into the github editor!)
-```
-
+[(University of Amsterdam) Carsten Dominik & Inga Kamp’s Star and Planet Formation, Chapter 3: Molecular Clouds](https://staff.fnwi.uva.nl/c.dominik/Teaching/SPF/syllabus.pdf) Lecture notes from Dr. Dominik and Dr. Kamp’s UvA Master Course on Star and Planet Formation. Chapter 3 discusses the observational aspects, physical processes, and chemical composition of molecular clouds with images, tables, sky maps, and plots.
