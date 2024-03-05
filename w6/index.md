@@ -12,8 +12,9 @@ The tools used to understand this short lived phase have been developed analytic
   + Ballistic trajectories and some orbital mechanics
     
 ### Updates and Reminders
-Good time to start thinking about your midterm presentation topic! - [Midterm instructions](https://github.com/akuznetsova/spf-2024/issues/12)
-
++ Good time to start thinking about your midterm presentation topic! - [Midterm instructions](https://github.com/akuznetsova/spf-2024/issues/12)  
++ Starting this week: homeworks will be worth 5 points (rather than 4 points) to adjust for the fact that there will be no homework assigned to be due the week of the midterm or after the last week of class.
+  
 ### Recaps
 *Mar 6*:   
 *Mar 8*:  
