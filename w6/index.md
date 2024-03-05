@@ -19,6 +19,6 @@ Good time to start thinking about your midterm presentation topic! - [Midterm in
 *Mar 8*:  
 
 ### References:
-
+[Bhandare, 2018](https://ui.adsabs.harvard.edu/abs/2018A&A...618A..95B/abstract): a nice paper focused on fully numerically simulating with radiation hydrodynamics (so as to capture the change in equation of state) in 1D the collapse of a core, resolving the formation of the first and second hydrostatic core. We discussed Figure 3 in class. 
 ### HW 6: TBD
 
