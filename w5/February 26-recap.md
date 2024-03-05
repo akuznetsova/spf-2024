@@ -85,3 +85,8 @@ $n_{1} m_{H} (\frac{dR}{dt}^2) = 2k T_e n_1 (R_s/R)^{3/2}$
 
 
 $R = R_s [1 + (\frac{2kT_{e}/m_H}{R_s})^{1/2} (t-t_{break}) ]^{4/7}$
+
+
+
+### Related Resources
+[(University of Toledo) Tom Megeath’s PH 6820 The Secret Lives of Stars, Lecture 6: Isothermal and Bonnor-Ebert Spheres](http://astro1.physics.utoledo.edu/~megeath/ph6820/lecture6_ph6820.pdf) Lecture notes from Dr. Megeath’s UToledo course on star formation. Lecture 6 covers the equations for the Bonnor-Ebert spheres discussed in class with supplementary plots and sky images.
