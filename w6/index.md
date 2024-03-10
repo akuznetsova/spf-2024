@@ -21,5 +21,11 @@ The tools used to understand this short lived phase have been developed analytic
 
 ### References:
 [Bhandare, 2018](https://ui.adsabs.harvard.edu/abs/2018A&A...618A..95B/abstract): a nice paper focused on fully numerically simulating with radiation hydrodynamics (so as to capture the change in equation of state) in 1D the collapse of a core, resolving the formation of the first and second hydrostatic core. We discussed Figure 3 in class. 
-### HW 6: TBD
 
+### HW 6 Objectives
+1. Use principles of angular momentum conservation to figure out the time evolution of the disk radius during disk formation.
+2. Understand how the assumption of initial cloud rotation affects the resulting disk properties
+
+**Assignment Instructions**
+This assignment is hosted as a [Jupyter notebook](./HW6-[NAME].ipynb), a copy of which is in this weeks folder.
+To receive credit for this assignment, please commit your copy of the notebook (with all code executed and plots generated) to the course github in the week 6 submissions folder with the commit title of HOMEWORK 6 - [NAME] and leave a reply in the [Assignment thread](https://github.com/akuznetsova/spf-2024/issues/16) with a link to the submission.
