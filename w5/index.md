@@ -17,7 +17,7 @@ Motivation: Stars don't form in isolation. We observe star-forming regions withi
 ### Updates and Reminders
 
 ### Recaps
-*Feb 26*:   
+[*Feb 26*:](https://github.com/akuznetsova/spf-2024/blob/main/w5/February%2026-recap.md)
 *Feb 28*:  
 
 ### References:
