@@ -21,5 +21,6 @@ Motivation: Magnetic fields are present in the ISM -- we have a few techniques f
 *Mar 13*:  
 
 ### References:
+[Richard Fitzpatrick's MHD notes](https://farside.ph.utexas.edu/teaching/plasma/Plasma/node84.html): An excellent resource for working through the math. (He also has a really nice [fluid mechanics course](https://farside.ph.utexas.edu/teaching/336L/Fluid/) among many others)
 
 ### HW 7: TBD
