@@ -18,7 +18,7 @@ Protostars and Planets is a book of review papers from a field-wide conference s
 #### Graded components
 1. 5 min presentation of slide contributions to class presentation ( + 2-3 min Q/A per person) - [google slides link](https://docs.google.com/presentation/d/1-x_UGxyEHhJ_FP8DM4Wo5ya6meIE37wVc_X-ZEiy2zM/edit?usp=sharing)
 2. bibliography of sources used (additional menu points will be given for annotated bibliography submissions) - in week 9 submissions folder
-3. peer review  (google form)
+3. peer review  - [google form](https://forms.gle/C6NzqLDJ1TiHhYy4A)
 4. by March 27th: set up a meeting time with me for mid-semester check-in - email me
 
 #### Topic list:
