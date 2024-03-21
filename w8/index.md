@@ -28,5 +28,4 @@ Spectral Energy Distributions (SEDs)
 *Mar 21*:  
 
 ### References:
-
-### HW 7: TBD
+[Furlan+2009](https://ui.adsabs.harvard.edu/abs/2016ApJS..224....5F/abstract): Protostellar survey SED classification
