@@ -22,4 +22,4 @@ Due EOD: Friday April 5th
 
 **Assignment Instructions**
 This assignment is hosted as a [Jupyter notebook](./HW10-[NAME].ipynb), a copy of which is in this weeks folder.
-To receive credit for this assignment, please commit your copy of the notebook (with all code executed and plots generated) to the course github in the week 10 submissions folder with the commit title of HOMEWORK 10 - [NAME] and leave a reply in the [Assignment thread](https://github.com/akuznetsova/spf-2024/issues/16) with a link to the submission.
+To receive credit for this assignment, please commit your copy of the notebook (with all code executed and plots generated) to the course github in the week 10 submissions folder with the commit title of HOMEWORK 10 - [NAME] and leave a reply in the [Assignment thread](https://github.com/akuznetsova/spf-2024/issues/18) with a link to the submission.
