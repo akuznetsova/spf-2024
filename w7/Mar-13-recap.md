@@ -13,9 +13,16 @@ This lecture was an extension of the discussion of magnetic fields in the format
 + Neutrals
 
 # Nonideal MHD effects (not inclusive of all, just what was discussed in class):
+
+![Schematic for MHD driven accretion](Simonetal2015.png)
+(Schematic of how MHD driven accretion in protoplanetary disks might proceed, adapted from [Simon et al. 2015](https://ui.adsabs.harvard.edu/abs/2015MNRAS.454.1117S/abstract))
 + Ohmic resistivity: dissipation of electrical energy into thermal energy for a plasma with a resistivity. $j=\sigma{E}'$, for $\sigma\propto\frac{1}{\eta}$. Here, $\sigma$ is the conductivity and $\eta$ is the resistivity.
 + Ambipolar diffusion: ion-neutral drag seen in partially ionized plasma, where the magnetic field can decouple from the plasma.
 + Hall effect: electron-ion drag, due to the movement of charged particles in a magnetic field. Non-dissipative and applies to Coulomb scales more than dynamical scales.
+
+![Plot of relative importance of non-ideal MHD terms is shown in the rho-T plane](Armitage2011.png)
+
+(Plot of the relative importance of non-ideal MHD terms in the rho-T plane, from [Armitage 2011](https://ui.adsabs.harvard.edu/abs/2011ARA%26A..49..195A/abstract))
 
 # Case study of the ambipolar diffusion effect:
 Taking a drag force $f_{d}=\gamma\rho_{n}\rho_{i}(v_{i}-v_{n})$, where $\gamma = 3.5\times10^{13} cm^{3}g{-1}s{-1}$ is the drag coefficient (Draine, 1983), we can plug it into our MHD equation: <br>
