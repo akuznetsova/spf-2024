@@ -25,7 +25,7 @@ Apr 17:
 [Birnstiel+2016](https://ui.adsabs.harvard.edu/abs/2016SSRv..205...41B/abstract): A very comprehensive review of dust dynamical evolution in protoplanetary disks
 
 ### HW 12 Objectives
-Due EOD: Friday April 19th  
+Due April 29th (end of spring break)
 1. Code up an analytical fiducial model for a protoplanetary disk
 2. Learn how to use RADMC-3D to predict the temperature and emission from a disk
 3. Test the results of analytical model vs. radiative transfer. 
