@@ -22,11 +22,12 @@ Apr 15:
 Apr 17:  
 
 ### Resources
-[Birnstiel+2016](https://ui.adsabs.harvard.edu/abs/2016SSRv..205...41B/abstract): A very comprehensive review of dust dynamical evolution in protoplanetary disks
+[Birnstiel+2016](https://ui.adsabs.harvard.edu/abs/2016SSRv..205...41B/abstract): A very comprehensive review of dust dynamical evolution in protoplanetary disks  
 [Phil Armitage's Instability Notes](https://indico.nbi.ku.dk/event/764/contributions/5088/attachments/1723/2428/armitage_nbi.pdf)  
 [Lesur+2020](https://www.cambridge.org/core/journals/journal-of-plasma-physics/article/magnetohydrodynamics-of-protoplanetary-discs/0557575DE812AAA9DD8324A5E6F6165A): Some notes on epicyclic perturbation and instability analyses for MHD systems  
 [Epicyclic motion in the Galaxy](https://web.mit.edu/~lianaiad/Public/OCW/8.284/lec28.pdf)  
 [Meheut+2013](https://academic.oup.com/mnras/article/430/3/1988/980053): Primer on the Rossby Wave Instability in disks
+[Kratter+Lodato 2016](https://academic.oup.com/mnras/article/430/3/1988/980053): Comprehensive review on the Gravitational Instability in disks
 
 ### HW 12 Objectives
 Due April 29th (end of spring break)
