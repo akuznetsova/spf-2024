@@ -38,7 +38,7 @@ Due April 29th (end of spring break)
 **Assignment Instructions**
 [Last week](../w11/index.md), you were asked to install RADMC-3D - a public piece of astronomical software that utilizes MCMC methods to perform radiative transfer calculations. 
 This week, we will take some steps to run and evaluate a disk model using radiative transfer calculations. 
-
+The homework is available as a [notebook](./HW12-[NAME].ipynb) in this week's folder. 
 If at this point, you're still having trouble with your installation, the course binder hub has been updated to include an installation of RADMC-3D.  
 
 As a reminder:   
