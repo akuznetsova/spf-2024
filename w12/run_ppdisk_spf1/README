@@ -1,0 +1,19 @@
+This is the same model as run_ppdisk_simple_1, but now with two dust species:
+one small grain species and a midplane layer of large grains. The mass of the
+disk is increased compared to run_ppdisk_simple_1.
+
+The "fracbig" variable sets the ratio of how much of the dust mass is in the big
+grains. The opacity files have been created in:
+
+  ../../opac/dust_continuum/dustopac_for_example_models/
+
+How to run this model:
+
+  python problem_setup.py
+  radmc3d mctherm setthreads 4
+
+and then in Python:
+
+  %run problem_plotexamples.py
+
+30.06.2017 / 30.08.2020
