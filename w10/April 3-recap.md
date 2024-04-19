@@ -31,20 +31,21 @@ $1yr = 3.14 \times 10^7 s$
 ### Model
 #### Radiation
 $I_\nu = B_\nu(T)(1-\tau)$ \
-$\Sigma = \Sigma _0(\frac{r}{r_0})^{-p}$ \
+$\Sigma = \Sigma_0(\frac{r}{r_0})^{-p}$ \
 $T = T_0(\frac{r}{r_0})^{-q}$ \
 $T(r) = T_0(\frac{r}{r_0})^{-q}$ \
 $T_{eq,rad}(r)=T_\star f_A^{\frac{1}{4}}(\frac{r}{R_\star})^{-\frac{1}{2}}$ \
 $T_(r_0)=T_0=T_\star f_A^{\frac{1}{4}}(\frac{r}{R_\star})^{-\frac{1}{2}}$ \
 $T_0 = 324K(\frac{T_\star}{4000K})(\frac{f_A}{0.5})^{\frac{1}{4}}(\frac{R_\star}{2R_\odot})^{-\frac{1}{2}}$ \
 $T_{0,\oplus} = 278K = 14^\circ C$
+
 #### $\nu_{isc}$
 $T_{\nu_{isc}}^4 = \frac{3GM \dot{M}}{8\pi R^2 \sigma}[1 -(\frac{R}{R_\star})^{-\frac{1}{2}}]$ \
 $T_{\nu_{isc}}(r_0) = T_0$ \
 $T_0 = 83K(\frac{M_\star}{M_0})^{\frac{1}{4}}(\frac{\dot{M}}{10^{-8}\frac{M_\odot}{yr}})^{\frac{1}{4}}(\frac{f}{0.9})^{\frac{1}{4}}$
 
 #### Minimum Mass Solar Nebula (MMSN)
-$\Sigma = \Sigma _0 (\frac{r}{r_0})^{-p}e^{(\frac{-r}{r_d})}$ \
+$\Sigma = \Sigma_0 (\frac{r}{r_0})^{-p}e^{(\frac{-r}{r_d})}$ \
 $\nu  \propto R^\gamma$ \
 $\Sigma (r) = \Sigma _c (\frac{r}{r_c})^{-\gamma}e^{-(\frac{r}{r_d})^{2-\gamma}}$ \
 $\int dM = \int \Sigma (r)2\pi rdr$ \
