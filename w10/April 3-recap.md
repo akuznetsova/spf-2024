@@ -54,14 +54,14 @@ $p=1 \rightarrow M_d = \Sigma_0 2\pi r_0 \int e^{\frac{-r}{r_d}}dr = 2\pi r_0 r_
 $M_d = 0.075M_\odot(\frac{r_d}{100Au})(\frac{\Sigma_0}{1700\frac{g}{cm^2}})$ \
 $c_s = \sqrt{\frac{\gamma kT}{\mu m_H}}$ \
 $c_s = 1.2\frac{km}{s} (\frac{T_0}{324K})^{\frac{1}{2}}(\frac{r}{r_0})^{\frac{-q}{2}}$ \
-$\nu _{kep} = \sqrt{\frac{GM}{r}} = 30 \frac{km}{s}(\frac{M_\star}{M_\odot})^{\frac{1}{2}}(\frac{r}{r_0})^{-\frac{1}{2}}$ \
+$\nu_{kep} = \sqrt{\frac{GM}{r}} = 30 \frac{km}{s}(\frac{M_\star}{M_\odot})^{\frac{1}{2}}(\frac{r}{r_0})^{-\frac{1}{2}}$ \
 $\Omega_{kep} =\sqrt{\frac{GM}{r^3}} =2s^{-1}(\frac{M_\star}{M_0})^{\frac{1}{2}}(\frac{r}{r_0})^{-\frac{3}{2}}$ \
 $t_{orb} = p = \frac{2\pi}{\Omega_{kep}} =1yr(\frac{M_\star}{M_\odot})^{\frac{1}{2}}(\frac{r}{r_0})^{\frac{3}{2}}$ \
 $H = \frac{c_s}{\Omega_{kep}}$\
 $h= \frac{c_s}{\nu_{kep}} = 0.04(\frac{M_\star}{M_\odot})^{-\frac{1}{2}}(\frac{r}{r_0})^{\frac{1-q}{2}}$ \
 $\nu = \alpha c_s H$ \
-$\nu _0 = 10^{-4} \times 1.25 \frac{km}{s} \times 0.04Au$ \
-$\nu _0 = 7.5 \times 10^{12} \frac{cm^2}{s}$ \
+$\nu_0 = 10^{-4} \times 1.25 \frac{km}{s} \times 0.04Au$ \
+$\nu_0 = 7.5 \times 10^{12} \frac{cm^2}{s}$ \
 $t_\nu = \frac{r^2}{\nu} = 3 \times 10^{13}s = 1Myr(\frac{r}{r_0})^2$
 
 ### Questions 
