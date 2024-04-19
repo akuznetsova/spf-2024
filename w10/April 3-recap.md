@@ -3,7 +3,7 @@
 ## Topic: Accretion Parameters
 
 ### Summary
-Discussed how all the different accretion parameters are related and which ones depend on eachother. Did the same for Flux of the accretion disc. We then created a Fiducial model for Radition, $\nu_{isc}, and a Minimum Mass Solar Nebula (MMSN).
+Discussed how all the different accretion parameters are related and which ones depend on eachother. Did the same for Flux of the accretion disc. We then created a Fiducial model for Radition, $\nu_{isc}$, and a Minimum Mass Solar Nebula (MMSN).
 
 ### Outline 
 ### Fiducial Values
@@ -50,7 +50,7 @@ $\Sigma = \Sigma_0 (\frac{r}{r_0})^{-p}e^{(\frac{-r}{r_d})}$ \
 $\nu  \propto R^\gamma$ \
 $\Sigma(r) = \Sigma_c (\frac{r}{r_c})^{-\gamma}e^{-(\frac{r}{r_d})^{2-\gamma}}$ \
 $\int dM = \int \Sigma (r)2\pi rdr$ \
-$p=1 \rightarrow M_d = \Sigma _0 2\pi r_0 \int e^{\frac{-r}{r_d}}dr = 2\pi r_0 r_d (0.63) \Sigma _0$ \
+$p=1 \rightarrow M_d = \Sigma_0 2\pi r_0 \int e^{\frac{-r}{r_d}}dr = 2\pi r_0 r_d (0.63) \Sigma _0$ \
 $M_d = 0.075M_\odot(\frac{r_d}{100Au})(\frac{\Sigma _0}{1700\frac{g}{cm^2}})$ \
 $c_s = \sqrt{\frac{\gamma kT}{\mu m_H}}$ \
 $c_s = 1.2\frac{km}{s} (\frac{T_0}{324K})^{\frac{1}{2}}(\frac{r}{r_0})^{\frac{-q}{2}}$ \
