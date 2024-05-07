@@ -16,8 +16,8 @@ Motivation: Just like the population level properties of main sequence and evolv
 ### Updates and Reminders
 
 ### Recaps
-*Mar 18*:   
-*Mar 21*:  
+[*Mar 18*](https://github.com/akuznetsova/spf-2024/blob/main/w8/march%2018th%20recap.ipynb)  
+[*Mar 21*](./Mar-20-recap.md)  
 
 ### References:
 [Furlan+2009](https://ui.adsabs.harvard.edu/abs/2016ApJS..224....5F/abstract): Protostellar survey SED classification
