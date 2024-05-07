@@ -21,6 +21,10 @@ What kind of physical regimes could lead to non-linear behavior?
 Apr 15:  
 Apr 17:  
 
+Reminder for recap upload:  
+<img width="281" alt="image" src="https://github.com/akuznetsova/spf-2024/assets/20684970/667d4bb5-ffbc-4b66-908b-7a51c1d84f9b">
+
+
 ### Resources
 [Birnstiel+2016](https://ui.adsabs.harvard.edu/abs/2016SSRv..205...41B/abstract): A very comprehensive review of dust dynamical evolution in protoplanetary disks  
 [Phil Armitage's Instability Notes](https://indico.nbi.ku.dk/event/764/contributions/5088/attachments/1723/2428/armitage_nbi.pdf)  
