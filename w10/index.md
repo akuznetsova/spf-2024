@@ -10,8 +10,8 @@ Motivation: Planet-forming disks are where planets are assembled, in order to un
   - Radiation Transport in disk atmospheres
     
 ### Recaps
-Apr 1:   
-Apr 3:  
+[*Apr 1*](./April-1-recap.md)   
+[*Apr 3*](./April\3-recap.md) 
 
 ### HW 10 Objectives
 Due EOD: Friday April 5th  
