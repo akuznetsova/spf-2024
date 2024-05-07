@@ -11,11 +11,11 @@ Motivation: Planet-forming disks are where planets are assembled, in order to un
 
     
 ### Recaps
-Apr 10:    
+[*Apr 10*](./April-10-recap.ipynb)    
 
 ### Resources
-[ALMA Science Primer](https://almascience.nrao.edu/documents-and-tools/cycle11/alma-science-primer)  
-[ALMA technical handbook](https://almascience.nrao.edu/documents-and-tools/cycle11/alma-technical-handbook)
+[ALMA Science Primer](https://almascience.nrao.edu/documents-and-tools/cycle11/alma-science-primer)    
+[ALMA technical handbook](https://almascience.nrao.edu/documents-and-tools/cycle11/alma-technical-handbook)  
 
 ### HW 11 Objectives
 Due EOD: Friday April 12th  
