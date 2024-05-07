@@ -17,8 +17,13 @@ Motivation: Stars don't form in isolation. We observe star-forming regions withi
 ### Updates and Reminders
 
 ### Recaps
-[*Feb 26*:](https://github.com/akuznetsova/spf-2024/blob/main/w5/February%2026-recap.md)
+[*Feb 26*:](https://github.com/akuznetsova/spf-2024/blob/main/w5/February%2026-recap.md)  
 *Feb 28*:  
+
+Surprise cats:  
+<img width="447" alt="image" src="https://github.com/akuznetsova/spf-2024/assets/20684970/997584b3-1014-4d0d-93ff-74268052d673">
+
+
 
 ### References:
 [Kennicutt+Evans,2012](http://www2.physics.umanitoba.ca/u/english/teachwebpages/2017winter4320/papers/KennicuttEvansMainSeq_annurev-astro-081811-125610.pdf): "Star Formation in the Milky Way and Nearby Galaxies" a review paper on relevant star formation metrics we discussed in class
