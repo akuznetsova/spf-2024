@@ -160,3 +160,5 @@ Rayleigh-Taylor instability introduces Kevin-Hemholtz instabilkity.
 [(University of Maryland) Benedict Diemer’s ASTRO 670 Hydrodynamics, Chapter 8: Shocks](http://www.benediktdiemer.com/wp-content/uploads/astr670_hydro_notes.pdf). Notes from Dr. Diemer’s UMD course on The ISM and Hydrodynamics. Chapter 8 introduces shocks and, starting in 8.2, provides images alongside the equations discussed in class (Mach number, Rankine-Hugoniot conditions, etc.) as well as plots visualizing properties of supernova blast waves.
 
 [Bamba & Williams, 2022. Supernova Remnants: Types and Evolution](https://ui.adsabs.harvard.edu/abs/2022hxga.book...77B/abstract) Handbook chapter summarizing the evolution of supernova remnants (SNR) through the free expansion, blast wave, and snowplow phases as well as dissipation, providing images to accompany the relevant equations governing the processes. Also discusses and displays various SNR types with examples.
+
+[http://ugastro.berkeley.edu/radio/2017/handout_links/shocks.pdf] A pdf of a basic breakdown containing basics to shocks,  derivations of shock equations, as well as blast waves. [Manuel Ramirez]
