@@ -161,4 +161,4 @@ Rayleigh-Taylor instability introduces Kevin-Hemholtz instabilkity.
 
 [Bamba & Williams, 2022. Supernova Remnants: Types and Evolution](https://ui.adsabs.harvard.edu/abs/2022hxga.book...77B/abstract) Handbook chapter summarizing the evolution of supernova remnants (SNR) through the free expansion, blast wave, and snowplow phases as well as dissipation, providing images to accompany the relevant equations governing the processes. Also discusses and displays various SNR types with examples.
 
-[http://ugastro.berkeley.edu/radio/2017/handout_links/shocks.pdf] A pdf of a basic breakdown containing basics to shocks,  derivations of shock equations, as well as blast waves. [Manuel Ramirez]
+[http://ugastro.berkeley.edu/radio/2017/handout_links/shocks.pdf] A pdf of a basic breakdown containing basics to shocks,  derivations of shock equations, as well as blast waves. This could be very useful contribution for students working on their final projects.  [Manuel Ramirez]
