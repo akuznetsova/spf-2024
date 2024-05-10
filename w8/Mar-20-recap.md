@@ -136,3 +136,6 @@ $M_{disk} = M_{dust}/\epsilon$, where $\epsilon$ is ratio of gas/dust (taken fro
 - $-1.5 < \alpha_{IR} < 0$: class II
 
 ### Related Resources
+[https://home.ifa.hawaii.edu/users/jpw/classes/star_formation/lectures/protostars.pdf] A lecture by Johnathan Williams from the University of Hawaii (whom may be the same person who made penned our textbook) from a course on Star Formation. This lecture covers Class 0 and Class 1 protostars and all that encompasses them.[Manuel Ramirez].
+
+[https://www2.mps.mpg.de/solar-system-school/lectures/origin_solar_system_2009/Dasi.pdf] Notes on formation of stellar systems from the Max Planck Institute covering Neubalr Hypothesis. [Manuel Ramirez]
