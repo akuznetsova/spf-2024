@@ -46,6 +46,8 @@ Questions we considered in class included why we would use the nonideal MHD effe
 
 ### Related Resources
 
+[https://www.sciencedirect.com/topics/materials-science/magnetohydrodynamics#:~:text=Magnetohydrodynamic%20(MHD)%20(magnetofluid%20dynamics,and%20salt%20water%20or%20electrolytes.] Basics to Magnetohydrodynamics. [Manuel Ramirez]
+
 [https://www.maths.dur.ac.uk/users/anthony.yeates/yeates-mhd2021.pdf] A lecture by professor Anthony Yeates from Durham University on MHD. [Manuel Ramirez]
 
 [https://www.mpe.mpg.de/7283848/mhd#:~:text=The%20relative%20strengths%20of%20non,diffusivity%20and%20promotes%20disk%20formation.] A paper that highights whether a disk forms based on its MHD effects. [Manuel Ramirez]
