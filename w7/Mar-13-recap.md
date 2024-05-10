@@ -44,4 +44,8 @@ Three types of MHD solutions are:
 ### Questions 
 Questions we considered in class included why we would use the nonideal MHD effects at all, for which we learned there is a scaling dependency. A question I had was whether the Elsasser number compares to a dynamical timescale. I was also curious as to what (if any) other effects can be included in the nonideal MHD scenarios.
 
+### Related Resources
 
+[https://www.maths.dur.ac.uk/users/anthony.yeates/yeates-mhd2021.pdf] A lecture by professor Anthony Yeates from Durham University on MHD. [Manuel Ramirez]
+
+[https://www.mpe.mpg.de/7283848/mhd#:~:text=The%20relative%20strengths%20of%20non,diffusivity%20and%20promotes%20disk%20formation.] A paper that highights whether a disk forms based on its MHD effects. [Manuel Ramirez]
