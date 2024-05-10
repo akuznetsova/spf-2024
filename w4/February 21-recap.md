@@ -78,4 +78,7 @@ You can put questions that came up in class, or that you have yourself related t
 ### Related Resources
 [(University of Amsterdam) Carsten Dominik & Inga Kamp’s Star and Planet Formation, Chapter 3: Molecular Clouds](https://staff.fnwi.uva.nl/c.dominik/Teaching/SPF/syllabus.pdf) Lecture notes from Dr. Dominik and Dr. Kamp’s UvA Master Course on Star and Planet Formation. Chapter 3 discusses the observational aspects, physical processes, and chemical composition of molecular clouds with images, tables, sky maps, and plots.
 
-[https://academic.oup.com/mnras/article/413/4/2935/965474] This paper demonstrates how cloud collision and stellar feedback effect the gas content by allowing gravitational forces to be dominant. They found that the observations, concerning the distributions of virial parameters and cloud structures, can be effectively simulated if the star formation efficiency within these confined areas is approximately 5 to 10 percent. {Manuel Ramirez]
+[https://academic.oup.com/mnras/article/413/4/2935/965474] This paper demonstrates how cloud collision and stellar feedback effect the gas content by allowing gravitational forces to be dominant. They found that the observations, concerning the distributions of virial parameters and cloud structures, can be effectively simulated if the star formation efficiency within these confined areas is approximately 5 to 10 percent. [Manuel Ramirez]
+
+[http://astro1.physics.utoledo.edu/~megeath/ph6820/lecture3_ph6820.pdf] A slideshow containing all that encompass molecular clouds. [Manuel Ramirez]
+
