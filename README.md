@@ -178,7 +178,7 @@ The grading for the course will be somewhat non-traditional, rather than relying
 
 where ranges for passing grades are as follows:
 
-A: [90-100+), B: [80-90), C: [70-80)
+A-/A/A+: [88-92-96-100+), B-/B/B+: [76-80-84-88), C-/C/C+: [64-68-72-76)
 
 ### *Homework* (60): 
 Required weekly assignments e.g. problem sets and computational assignments, typically due by EOD on Fridays. Will provide ~4 total points each week. 
