@@ -25,6 +25,14 @@ Paragraph: Relationship to the course material (be specific as possible).
  salient connections to other papers we've talked about)
 ```
 
+[Zafar et. al, 2019](https://ui.adsabs.harvard.edu/abs/2019MNRAS.490.2599Z/abstract)
+*Silicon and iron dust in gamma-ray burst host galaxy absorbers*
+
+This study examines 23 GRB spectra, in an attempt to understand the chemical composition of interstellar dust grains. A lot of interstellar iron is locked in silicate grains, which leads to an increase in the amount of large grains with low amounts of silicon and iron depletion. This, combined with the fact that a majority of their samples show featureless extinction curves, indicates that these elements play a role in inducing the entire extinction at any wavelength (lack of these elements = no features in the curve). Another point that supports this claim is the correlation between an extinction ratio and column densities of Si and Fe. Again this connects the abundance of Si and Fe to the observed extinction. When extending to far-UV, they found no correlation between extinction and Si-Fe abundance, meaning that far-UV extinction could be from the combined effect of small grains of various types. 
+
+In week one of class, we were assigned homework to investigate the effects of various parameters on an ISM extinction curve. One of the parameters was dust composition. Using this kind of paper, one wouldn’t have to guess and check when varying dust composition - they could use more informed guesses.
+
+
 [Guillet et. al, 2020])(https://ui.adsabs.harvard.edu/abs/2020A%26A...634L..15G/abstract)
 *Polarized emission by aligned grains in the Mie regime: Application to protoplanetary disks observed by ALMA*
 
