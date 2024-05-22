@@ -24,6 +24,13 @@ Paragraph: Relationship to the course material (be specific as possible).
 (Optional Paragraph: Questions you had while reading,
  salient connections to other papers we've talked about)
 ```
+[Slavin, 2024](https://ui.adsabs.harvard.edu/abs/2024JPhCS2742a2028S/abstract)
+*Methods and Challenges of Including Dust Evolution in Magnetohydrodynamic Simulations*
+
+In this article, the author discusses the methods and how complex it is to simulate dust evolution in the ISM within MHD simulations. As discussed in class, dust is crucial in influencing the thermal state of the ISM through photoelectric heating, cooling of gas, etc. This article says that including dust is challenging because of the complexity of grain-grain interactions, and the impact that shocks have on altering grain size distributions- also something we discussed in class. They present some methods for including dust in MHD simulations, but the one that seems to be the “best” is a mixture of a tight coupling approximation for small grains, and a kinetic treatment for large grains. The tight coupling approximation would simulate the grain-grain collisions, while the kinetic treatment would replicate the change in grain gyro speed due to shocks. 
+
+This article included several topics we have discussed in class. It briefly touches on heating and cooling mechanisms of the ISM, and gives more detail on dust growth and grain destruction, and grain size distributions. This is a more in depth look at the actual technicality behind simulating some of the things we have learned about dust
+
 [Patra et. al, 2024](https://ui.adsabs.harvard.edu/abs/2024MNRAS.529.4037P/abstract)
 *The temperature of the neutral interstellar medium in the Galaxy*
 
