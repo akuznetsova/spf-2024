@@ -386,3 +386,10 @@ This paper is an excellent resource to use in conjunction with our lectures both
 In this paper, Marchand et. al. present a chemical solver that calculates the abundances of molecules and grains, which in turn compute non-ideal MHD resistivities relevant to core collapse simulations. The solver tool involves grain-surface reactions (such as evaporation) and allows the user to look into the chemical composition of the collapsing cloud. The table of the results range across temperatures and densities, making it useful for people to take these values and incorporate them into their disk formation simulations. In the end, the group also finds that it is relevant to incorporate this solver into models as the chemical equilibrium time scale can vary depending on the type of molecules and conditions within the collapsing core.
 
 This paper incorporates more of what we learned in class about the importance of a magnetic field's impact on a star-and-planet-forming system, but on a much smaller scale (which in turn, impacts the larger sclae global model). 
+
+[Mathis, Rumpl, and Nordsieck, 1977](https://adsabs.harvard.edu/full/1977ApJ...217..425M)
+*The size distribution of interstellar grains*
+
+This is *THE* MRN paper that Aleksandra mentioned in class. In this paper, Mathis, Rumpl, and Nordsieck dive into the size distribution of interstellar dust grains. They take into account observational data, while also considering theoretical modeling of extinction curves of data across different spectral ranges. They fit data with particle size distributions across graphite, enstatite, olivine, silicon carbide, iron, and magnetite.
+
+This paper discusses techniques used to investigate extinction curves, such as the reasons why certain elements and molecules were looked into, and how the optical depth of a column of molecules was studied. 
