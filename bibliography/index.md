@@ -25,6 +25,14 @@ Paragraph: Relationship to the course material (be specific as possible).
  salient connections to other papers we've talked about)
 ```
 
+[Gholipour, 2024](https://ui.adsabs.harvard.edu/abs/2024NewA..10702159G/abstract)
+*Dynamical behavior of ambipolar diffusion during the gravitational collapse of a radiative cooling filamentary cloud*
+
+This paper outlines the dynamics of ambipolar diffusion during the gravitational collapse of a filamentary molecular cloud going radiative cooling. A major variable in this study is the polytropic exponent which is a complex function which takes into account gas and dust temperature, velocity, radiation intensity, and chemical makeup. The major finding is that ambipolar diffusion decreases the flux to mass ratio in the outer regions of the filament regardless of polytropic exponent. However, in the central regions, if the polytropic exponent is greater than some threshold (0.8), a significant temperature increase occurs, which halts gravitational collapse. This discovery aligns with previous studies of star formation rate for polytropic exponents greater than 0.8.
+
+In week 7, we quickly went over a case of ambipolar diffusion, going through some equations that describe it. This paper takes what we talked about conceptually and applies it. It is interesting to see how much ambipolar diffusion affects this variable (polytropic exponent), that drastically affects star formation behavior.
+
+
 [Nguyen et. al 2024](https://ui.adsabs.harvard.edu/abs/2024MNRAS.530..984G/abstract)
 *Effects of grain magnetic properties and grain growth on synthetic dust polarization of MHD simulations of low-mass Class 0/I YSOs*
 
