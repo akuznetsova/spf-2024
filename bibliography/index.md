@@ -25,6 +25,14 @@ Paragraph: Relationship to the course material (be specific as possible).
  salient connections to other papers we've talked about)
 ```
 
+[Da Rio et. al, 2017] (https://ui.adsabs.harvard.edu/abs/2017ApJ...845..105D/abstract)
+*IN-SYNC V. Stellar Kinematics and Dynamics in the Orion A Molecular Cloud*
+
+A continuation of the IN-SYNC survey of the Orion A star forming region. This paper focuses on the kinematic behaviors of the population, derived from radial velocities. A major finding from this study includes the fact that the young stellar population remains kinematically tied to the molecular gas, following a gradient along the filament. Another big finding is that there is evidence of sub-clustering, which means that there are significant groupings of neighboring stars with coherent motions in relation to each other. Some conclusions were drawn about the Orion Nebula Cluster, which was shown to be more dynamically evolved, and there is evidence of it expanding.
+
+This paper was the main course for my midterm presentation. It presents specific kinematic behaviors of different YSO groups within Orion A, and conclusions drawn from those. Of these conclusions, the main point I wanted to make in my presentation, which was something we talked about in class, was the stars’ behavior in relation to the gas it was born from. From this study, they found younger populations that were still significantly kinematically bonded to the molecular gas it came from. Along with this, it found that there was an older population that no longer followed its molecular gas. 
+
+
 [Da Rio et. al, 2015](https://ui.adsabs.harvard.edu/abs/2016ApJ...818...59D/abstract)
 *IN-SYNC IV. The Young Stellar Population in the Orion A Molecular Cloud*
 
