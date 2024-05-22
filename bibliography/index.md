@@ -24,6 +24,13 @@ Paragraph: Relationship to the course material (be specific as possible).
 (Optional Paragraph: Questions you had while reading,
  salient connections to other papers we've talked about)
 ```
+[Schneider et. al, 2024](https://ui.adsabs.harvard.edu/abs/2024A%26ARv..32....2S/abstract)
+*The formation and cosmic evolution of dust in the early Universe: I. Dust sources*
+
+This review article focuses on the formation of evolution of dust in the early Universe (within 1.5 billion years after the Big Bang. It focuses more so on theoretical models of dust production in the ISM, by considering sources such as supernovae and asymptotic giant branch (AGB) stars. They find that the complexity of dust production and destruction are influenced by factors such as initial mass function, metallicity, and the dynamics within supernova remnants. They also discuss how supernovae are initially the primary dust producers, but AGB stars’ contributions catch up, as they are heavily influenced by the initial mass function. They conclude with the typical discussion of how more advanced models and observations are required to refine their understanding of dust production.
+
+In class we have talked about dust in the context of their absorption/emission, and how to grow dust. This paper provides context on the steps before those can even occur, as it is how dust even comes to be. It provides more insight into the mechanisms that create the dust that we, in class, discuss its evolution. 
+
 
 [Kritsuk et. al. 2021](https://arxiv.org/abs/1309.5926) 
 *A supersonic turbulence origin of Larson's laws*
