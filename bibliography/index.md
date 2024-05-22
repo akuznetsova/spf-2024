@@ -336,3 +336,11 @@ in a gas+dust T Tauri disk for different planet masses and grain sizes. They the
 
 This is relevant to what we discussed about how planets "clear out" the dust in the disc within their orbits.
 
+[Chambers, 2024](https://ui.adsabs.harvard.edu/abs/2024ApJ...966...40C/abstract)
+*Large Fluctuations within 1 au in Protoplanetary disks*
+
+This study looks at the time evolution of protoplanetary disks, and focuses on the rapid fluctuations within 1.5au that occur due to a sharp increase in viscosity. The main takeaway from this paper isn’t the fluctuations themselves, but the implications of them. For example, large temperature fluctuations in the inner disk have implications on  planetesimal formation and protoplanet migration. This occurs due to pressure maxima appearing and disappearing. Within these, there are traps where planetesimals can form, and protoplanets can migrate due to disk tide. The lifetime of these traps is limited to the period that the fluctuations cycle, between decades and ~1kyr. Another point is that the short lifetimes and rapid speed of the waves will not let a substantial concentration of pebbles to accrue. There are also slower waves that result from the fluctuations (period of ~10kyr that may be better suited for streaming instability and other processes to operate. 
+
+In week 10 we began discussing protoplanetary disks and accretion. This paper extends on that, by talking about how fluctuations in the protoplanetary disk can affect various mechanisms that act within it. This adds to the foundation and equations of the mechanisms that we learned in class.
+
+
