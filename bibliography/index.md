@@ -24,6 +24,14 @@ Paragraph: Relationship to the course material (be specific as possible).
 (Optional Paragraph: Questions you had while reading,
  salient connections to other papers we've talked about)
 ```
+[Patra et. al, 2024](https://ui.adsabs.harvard.edu/abs/2024MNRAS.529.4037P/abstract)
+*The temperature of the neutral interstellar medium in the Galaxy*
+
+This paper investigates the temperature and properties of the ISM, focusing on atomic gas, specifically, the absorption of H I. They find that the warm neutral medium (WNM) dominates the majority of their sightlines, and also are able to back up calculations for a column density threshold for the cold neutral medium. They further explore the two-temperature model and find that, along their sightlines, the classical two-temperature model fails to reproduce their observations. They have to extend the temperatures for the CNM in order to get results consistent with their observations. These results suggest that there is a more complex temperature distribution in the ISM. 
+
+In class we talked in depth of the heating and cooling mechanisms within the ISM, and how absorption studies lead to the conclusion of two temperature regimes, the CNM and WNM, along with their corresponding temperatures. This paper challenges this established model by saying that under this strict model, their observations were not reproducible, so maybe there is a more complex distribution than we learned in class. 
+
+
 [Schneider et. al, 2024](https://ui.adsabs.harvard.edu/abs/2024A%26ARv..32....2S/abstract)
 *The formation and cosmic evolution of dust in the early Universe: I. Dust sources*
 
