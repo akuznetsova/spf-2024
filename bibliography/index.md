@@ -393,3 +393,11 @@ This paper incorporates more of what we learned in class about the importance of
 This is *THE* MRN paper that Aleksandra mentioned in class. In this paper, Mathis, Rumpl, and Nordsieck dive into the size distribution of interstellar dust grains. They take into account observational data, while also considering theoretical modeling of extinction curves of data across different spectral ranges. They fit data with particle size distributions across graphite, enstatite, olivine, silicon carbide, iron, and magnetite.
 
 This paper discusses techniques used to investigate extinction curves, such as the reasons why certain elements and molecules were looked into, and how the optical depth of a column of molecules was studied. 
+
+[Toomre, 1964](https://ui.adsabs.harvard.edu/abs/1964ApJ...139.1217T/abstract)
+*On the gravitational stability of a disk of stars*
+
+This paper investigates the gravitational stability of a rotating stellar system. Toomre emphasizes the fact that a thin, smooth, rotating disk is vulnerable to extensive, violent instabilities, unless the stars possess enough  random motion relative to each other. Toomre also discusses that rotation, increased disk thickness , and the presence of random motion are crucial for suppressing instabilities. The paper then goes through the numerical calculations and theory involved that support these claims. To apply this theory, Toomre discusses the findings for the observed smooth distribution of stars in the galactic disk, and provides estimates for the required radial velocity dispersion to make the disk stable. 
+
+In week 12 of class we discussed disk instability. More specifically, we discussed the mechanisms and equations for different contributors to instability. Although this paper is old, I find it very interesting to see it discuss some of the instabilities we talked about in class, and extend that discussion into what would potentially be required to counteract them. 
+
