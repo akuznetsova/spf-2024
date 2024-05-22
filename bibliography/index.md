@@ -25,6 +25,14 @@ Paragraph: Relationship to the course material (be specific as possible).
  salient connections to other papers we've talked about)
 ```
 
+[Hutton et. al, 2015](https://ui.adsabs.harvard.edu/abs/2015MNRAS.452.1412H/abstract)
+*Variations of the dust properties of M82 with galactocentric distance*
+
+This paper presents the study of dust properties in the starburst galaxy M82, using NUV and optical to analyze the dust properties. They focus on the extinction curve parametrized by the strength of a specific 2175 angstrom feature across different galactocentric distances. They find from their spatial distribution of parameters relating to the dust that there is a significant gradient in extinction with galactocentric distance. This suggests that the center of M82 exhibits an attenuation law similar to the Milky way, while the outer regions extinction curves have features that are in line with smaller dust grain sizes.
+
+This paper has a very similar foundation as our first homework from week 1 of class. If one were to do a deep dive into how varying parameters could affect extinction curves (like HW1) this would be a detailed basis for values to try (power law and dust size leads to different features in this study, those are two that we had to vary in our homework). 
+
+
 [Zafar et. al, 2019](https://ui.adsabs.harvard.edu/abs/2019MNRAS.490.2599Z/abstract)
 *Silicon and iron dust in gamma-ray burst host galaxy absorbers*
 
