@@ -374,3 +374,9 @@ This material is very relavant to the discussion had in class about gravitationa
 In this paper, Lebreuilly et. al. investigate the formation of protoplanetary disks and emphasize the importance of the magnetic field (and in particular, the non-ideal MHD physics such as ambipolar diffusion) and raditive transfer within the core collapse model of a $1000M_\odot$. They look into three models and find that without a magnetic field, it is impossible to reach the expected Class 0 disk structure.
 
 Aleksandra made it quite clear to us in class how important a magnetic field is to the structure of a disk, as well as how dust is influenced by magnetic field effects!
+
+[(Kratter et. al, 2016)](https://ui.adsabs.harvard.edu/abs/2016ARA&A..54..271K/abstract) *Gravitational Instabilities in Circumstellar Disks*
+
+This paper is a review of disks around young stars, focusing specifically on the growth of gravitational instabilities (GI). The authors first begin with an overview of the observational techniques used to identify disks, as well as a description of the evidence collected at the time. Next, the authors introduce the concept of GI using both the Toomre Q parameter, as well as the cooling time of the disk vs rotational period. The authors explore in detail what conditions cause this GI to grow, eventually leading to fragmentation of the disk. 
+
+This paper is an excellent resource to use in conjunction with our lectures both on disk observations, as well as instabilities. As this is a review paper, extra care is taken to explain the concepts, further expanding on the material covered in class.
