@@ -343,4 +343,10 @@ This study looks at the time evolution of protoplanetary disks, and focuses on t
 
 In week 10 we began discussing protoplanetary disks and accretion. This paper extends on that, by talking about how fluctuations in the protoplanetary disk can affect various mechanisms that act within it. This adds to the foundation and equations of the mechanisms that we learned in class.
 
+[(Burkert and Bodenheimer, 2000)](https://iopscience.iop.org/article/10.1086/317122/meta) *Turbulent Molecular Cloud Cores: Rotational Properties*
+
+In this paper, Burkert and Bodenheimer investigate the rotational characteristics of molecular cloud cores especially with relevance to the effect of turbulence on these cores. They take observational data and compare them with numerical simulations, studying the angular velocity, specific angular momentum, and turbulence. They found that turbulence has an immense effect on the rotation and angular momentum of the cores, and find a separate way of confirming the existence of a disk outside of purely dynamical arguments.
+
+This is related to what we learned towards the end of the course, specifically with respect to how a core-collapse model can be verified by using the Keplerian velocity of the disk.
+
 
