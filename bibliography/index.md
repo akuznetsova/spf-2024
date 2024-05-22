@@ -24,6 +24,15 @@ Paragraph: Relationship to the course material (be specific as possible).
 (Optional Paragraph: Questions you had while reading,
  salient connections to other papers we've talked about)
 ```
+
+[Da Rio et. al, 2015](https://ui.adsabs.harvard.edu/abs/2016ApJ...818...59D/abstract)
+*IN-SYNC IV. The Young Stellar Population in the Orion A Molecular Cloud*
+
+A continuation of the IN-SYNC survey of the Orion Molecular Cloud, this paper measures stellar parameters for YSO’s (effective temperature, radial velocity, etc.) along with extinctions. This paper goes further, placing their objects on the HRD, and finds a correlation between HRD inferred ages and spectroscopic surface-gravity inferred ages. A significant spread in stellar radii, along with correlation between ages and extinctions suggest relatively long duration of star formation throughout the region. One major finding from this paper is focussing on a specific cluster that was thought to be separate and in the foreground of Orion A. They confirm that the cluster is older and has low extinction, but its measured radial velocity is the same as Orion A’s population, so they determine that this cluster is actually a part of Orion A’s star forming region.
+
+My midterm presentation was on the behavior of YSO’s in star forming regions. As I aimed to narrow down which behavior I wanted to talk about, I found that this paper had great detail about radial velocities, including how they measured them from the population. I used this paper as the basis for how radial velocities are measured, and the insights that can be gained from them.
+
+
 [Cottaar et. al, 2014](https://ui.adsabs.harvard.edu/abs/2014ApJ...794..125C/abstract)
 *IN-SYNC I: Homogeneous Stellar Parameters from High-resolution APOGEE Spectra for Thousands of Pre-main Sequence Stars*
 
