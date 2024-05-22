@@ -25,6 +25,14 @@ Paragraph: Relationship to the course material (be specific as possible).
  salient connections to other papers we've talked about)
 ```
 
+[Guillet et. al, 2020])(https://ui.adsabs.harvard.edu/abs/2020A%26A...634L..15G/abstract)
+*Polarized emission by aligned grains in the Mie regime: Application to protoplanetary disks observed by ALMA*
+
+This study uses a dust model for calculating polarized emission by grains that are up to 1mm in size. They then compare their predictions to polarization observation in protoplanetary disks. A big emphasis from this paper is the importance of the grain shape, spinning dynamics, and composition in the Mie regime. All of these properties have a large impact on polarization properties. Another important note from this paper is that the orientation of polarization observed in some protoplanetary disks can be explained by the transition from positive to negative polarization, meaning that for grains up to submillimeter size, the polarization is parallel to the magnetic field.
+
+Similar to what we discussed in class during week 7, this paper discusses the polarization of grain emissions. It goes into more detail about how the actual grain size affects orientation of polarization.
+
+
 [Gholipour, 2024](https://ui.adsabs.harvard.edu/abs/2024NewA..10702159G/abstract)
 *Dynamical behavior of ambipolar diffusion during the gravitational collapse of a radiative cooling filamentary cloud*
 
