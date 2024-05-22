@@ -24,6 +24,15 @@ Paragraph: Relationship to the course material (be specific as possible).
 (Optional Paragraph: Questions you had while reading,
  salient connections to other papers we've talked about)
 ```
+[Nishimura et. al, 2014](https://ui.adsabs.harvard.edu/abs/2015ApJS..216...18N/abstract)
+*Revealing the physical properties of molecular gas in Orion with a
+large scale survey in J = 2–1 lines of 12CO, 13CO and C18O*
+
+This paper presents high-resolution emission observations for the Orion A and B giant molecular clouds. It compares these observations to previously established J=1-0 emissions to map the spatial distributions of gas, and to derive gas densities and temperatures. With their maps, they note high temperature regions at cloud edges which indicate interactions with stellar winds and radiation from massive stars. They also find a correlation between gas density and star formation efficiency. High intensity ratios of the two observed transitions near HII regions and cloud boundaries suggest that these regions are warmer and have dense gas. This indicates active stellar regions influence the physical conditions of the surrounding molecular gas, highlighting the impact of stellar activity on molecular gas and star formation with the Orion clouds.
+
+My midterm presentation was on the kinetic properties of YSO’s in star forming regions. In order to learn about this topic, I first needed to find out what tracers were used, and it was 13CO emissions. To learn about these types of emissions, I read this paper which helped me learn about the distributions of this gas within the same star forming region I was looking at for my project. 
+
+
 [Slavin, 2024](https://ui.adsabs.harvard.edu/abs/2024JPhCS2742a2028S/abstract)
 *Methods and Challenges of Including Dust Evolution in Magnetohydrodynamic Simulations*
 
