@@ -25,6 +25,14 @@ Paragraph: Relationship to the course material (be specific as possible).
  salient connections to other papers we've talked about)
 ```
 
+[Nguyen et. al 2024](https://ui.adsabs.harvard.edu/abs/2024MNRAS.530..984G/abstract)
+*Effects of grain magnetic properties and grain growth on synthetic dust polarization of MHD simulations of low-mass Class 0/I YSOs*
+
+This study explores the effects of magnetic properties and growth of grains on dust polarization in Magnetohydrodynamic simulations of low-mass YSOs. They use a non-ideal MHD simulation of a collapsing protostellar core, and analyze the impact of including iron and grain growth on thermal dust polarization. Superparamagnetism is a form of magnetism which appears in small ferromagnetic nanoparticles, and they find that superparamagnetic grains beyond ~500au can produce high polarization degrees from the protostar due to alignment via a magnetically enhanced torque mechanism. Grains within 500au from the protostar experience lower polarization, as they are aligned with the magnetic field by a radiative alignment torque only, not the magnetically enhanced torque. Finally, the last relevant bit of info is that they find that as grain size decreases, alignment decreases, leading to a polarization “hole”.
+
+In week 7 of class, we talked about MHDs and grain polarization. I found this paper particularly interesting, because it combined both of those topics. It also extends past what we talked about in class, into the scenario of magnetized grains effect on polarization. Finding that our talk on grain polarization may have been a bit short due to time restriction (only talking about absorption and emission effects on polarization), this paper built on that topic, and introduced new considerations not touched on in class.
+
+
 [Bhandare et. al, 2018](https://ui.adsabs.harvard.edu/abs/2018A%26A...618A..95B/abstract)
 *First core properties: from low- to high-mass star formation*
 
