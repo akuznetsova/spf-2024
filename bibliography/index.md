@@ -349,4 +349,10 @@ In this paper, Burkert and Bodenheimer investigate the rotational characteristic
 
 This is related to what we learned towards the end of the course, specifically with respect to how a core-collapse model can be verified by using the Keplerian velocity of the disk.
 
+[(Woitke et. al, 2016)](https://www.aanda.org/articles/aa/pdf/2016/02/aa26538-15.pdf) *Consistent dust and gas models for protoplanetary disks*
+
+In this paper, the authors propose new standard dust opacities for disk models, we present a simplified treatment of polycyclic aromatic hydrocarbons (PAHs) in radiative equilibrium which is sufficient to reproduce the PAH emission features, and they suggest using a simple yet physically justified treatment of dust settling. They then roughly adjusted parameters to obtain a model that predicts continuum and line observations that resemble typical multi-wavelength continuum and line observations of Class II T Tauri stars. They also study the impact of all model parameters such as disk mass, disk extension and shape, dust settling, dust size and opacity, and gas/dust ratio on all mainstream continuum and line observables, in particular on the SED, mm-slope, continuum visibilities, and emission lines. They found that the most important conclusions were that disk shape matters, dust size is important, a new dust standard opacities have been developed and that PAHs can have important effects on the disk radiative transfer. Their results results demonstrate that the various continuum and line observables probe the physical conditions at very different radii and different heights in the disk. Thus, only a combination of suitable multi-wavelength dust and gas observations can break the various degeneracies, for example those in SED modelling, and can lead to more reliable disk diagnosis. 
+
+This is related to the parameters of the disk that we discussed in class and how they affect the observations that we can perform on disks.
+
 
