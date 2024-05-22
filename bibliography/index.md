@@ -25,6 +25,14 @@ Paragraph: Relationship to the course material (be specific as possible).
  salient connections to other papers we've talked about)
 ```
 
+[Bhandare et. al, 2018](https://ui.adsabs.harvard.edu/abs/2018A%26A...618A..95B/abstract)
+*First core properties: from low- to high-mass star formation*
+
+This paper presents a study on molecular cloud core collapse, and the formation of first and second hydrostatic cores during star formation. Their model utilizes realistic gas equations of state, and radiative transfer coupled with hydrodynamics to simulate Larson’s collapse, with the goal of understanding the properties of first and second cores across a variety of initial cloud properties. Some of the findings are that various first core properties rely on initial cloud mass, with a transition region at the intermediate-mass regime. Low-mass protostars evolve through distinct stages of first and second hydrostatic core formation, while high-mass cloud cores rapidly evolve through the first collapse phase to form second Larson cores. Finally, they reveal that the transition region where first core properties significantly change is around 8-10 solar masses.
+
+This paper was actually referenced in class during week 6. Considering that we talked about first and second cores in class just before midterm week, I was definitely not in a place to fully grasp this subject. Coming back to this paper helped me understand the mechanisms behind core collapse, and gave good detail about the difference between the various core stages.
+
+
 [Zier et. al, 2021](https://ui.adsabs.harvard.edu/abs/2021ApJ...915....7Z/abstract)
 *On the Interaction of a Bonnor–Ebert Sphere with a Stellar Wind*
 
