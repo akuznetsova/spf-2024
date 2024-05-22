@@ -25,6 +25,14 @@ Paragraph: Relationship to the course material (be specific as possible).
  salient connections to other papers we've talked about)
 ```
 
+[Zier et. al, 2021](https://ui.adsabs.harvard.edu/abs/2021ApJ...915....7Z/abstract)
+*On the Interaction of a Bonnor–Ebert Sphere with a Stellar Wind*
+
+A Bonnor–Ebert sphere is a frequently utilized theoretical model in protostellar core simulations. It describes an isothermal, spherically symmetric gas distribution that is self-gravitating, in hydrostatic equilibrium, and maintained by the pressure of the surrounding medium.  This paper focuses on their interaction with stellar wind, and how low-mass star formation can be triggered. The main finding of this paper is that: based on the equation of hydrostatic equilibrium and isothermal equation of state, they are able to develop a new criteria for stability within a Bonnor-Ebert sphere. Through simulations, they were able to find that for specific ranges of radius of the sphere, the simulation was unable to trigger gravitational collapse. Over this threshold, simulations were able to achieve gravitational collapse, confirming the new criteria’s validity.
+
+The main point of this paper for me was not as much of what their results were criteria wise, but how in depth they talk about their Bonnor-Ebert sphere. In week 5, we briefly talked about BES’s, but going through their equations, I wasn’t really able to conceptualize what it was. This paper definitely helped me understand better what they are and how they are used, and the vast amount of theory behind them.
+
+
 [Nunez et. al, 2017](https://ui.adsabs.harvard.edu/abs/2017ApJ...836..204N/abstract)
 *Modeling for Stellar Feedback in Galaxy Formation Simulations*
 
