@@ -329,3 +329,10 @@ This study presents the results of 34 measurements of silicon column density in 
 
 For my final project, I am looking back at homework 1, where we varied parameters to see how it affected the features of an ISM extinction curve. I am taking that to the next level and seeing how different parameters affect different extinction curves throughout the literature. To do so, it is important to build a foundation of what elements and compositions are abundant, and how the literature treats varying these parameters. This is a foundational paper if someone were to begin researching dust composition.
 
+[(Gonzalez et. al, 2012)](https://www.aanda.org/articles/aa/pdf/2012/11/aa18806-12.pdf) *Planet gaps in the dust layer of 3D protoplanetary disks II. Observability with ALMA*
+
+The author uses 3D, two-fluid Smoothed Particle Hydrodynamics (SPH) simulations of a planet embedded
+in a gas+dust T Tauri disk for different planet masses and grain sizes. They then pass the resulting dust distributions to the Monte Carlo radiative transfer code MCFOST to construct synthetic images in the ALMA wavebands. This allowed them to provide predictions of observations with ALMA and examine the detectability of planetary gaps. They provide two cases,the “dynamic” case where they use the true spatial distribution of dust of different grain sizes obtained from the hydrodynamic simulations and the “well-mixed” case where they simply use the spatial distribution of gas and assume that the dust follows it in order to check the validity of the “wellmixed” hypothesis. They found that for average sky conditions, the wavelength giving the best signal to noise (S/N) to be 850 $\mu m$  when phase noise is neglected or 1.3 mm, with slightly lower performance, when it is included. Overall, they demonstrate that the gap carved by a moderately massive planet of one Jupiter mass at large orbital radii will be well within reach of ALMA. 
+
+This is relevant to what we discussed about how planets "clear out" the dust in the disc within their orbits.
+
