@@ -25,6 +25,15 @@ Paragraph: Relationship to the course material (be specific as possible).
  salient connections to other papers we've talked about)
 ```
 
+[Nunez et. al, 2017](https://ui.adsabs.harvard.edu/abs/2017ApJ...836..204N/abstract)
+*Modeling for Stellar Feedback in Galaxy Formation Simulations*
+
+This paper presents a model representing the three major phases of a supernova, and how star formation is affected by this supernova. This feedback model distributes energy to the surrounding medium throughout the three phases, with the majority of energy transferred to gas particles during the energy-conserving and snowplow phases. Their  model effectively suppresses early star formation, which leads to a younger stellar population and increased gas outflow rate. Their model also leads to a flatter disk structure and a steady star formation rate, which agrees with observations. Additionally, their model creates a galactic “fountain” where gas kicked out by supernova remnants eventually falls back onto the galaxy. 
+
+In week three of class we discussed the three phases of a supernova, and detailed the equations that cover the mechanics of these phases. This paper builds on that and talks about how the phases actually affect star formation around them, which is something we didn’t get to talk about in class. It is interesting to make connections between the equations and discussions we had in class, and the more in depth look at how each phase has different stellar feedback.
+
+
+
 [Da Rio et. al, 2017] (https://ui.adsabs.harvard.edu/abs/2017ApJ...845..105D/abstract)
 *IN-SYNC V. Stellar Kinematics and Dynamics in the Orion A Molecular Cloud*
 
