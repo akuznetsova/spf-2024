@@ -24,6 +24,12 @@ Paragraph: Relationship to the course material (be specific as possible).
 (Optional Paragraph: Questions you had while reading,
  salient connections to other papers we've talked about)
 ```
+[Cottaar et. al, 2014](https://ui.adsabs.harvard.edu/abs/2014ApJ...794..125C/abstract)
+*IN-SYNC I: Homogeneous Stellar Parameters from High-resolution APOGEE Spectra for Thousands of Pre-main Sequence Stars*
+
+This is the first paper in a series that presents various analyses of young stellar objects (YSOs). This one in particular presents spectral and photometric observations, and aims to derive the stellar dynamical state of the YSOs, while characterizing uncertainties in the spectral parameters. As the first paper in the series, this one more broadly describes the pipeline used to derive various parameters, along with generous detail on the sources of uncertainty. They present effective temperatures, surface gravities, radial velocities, and rotational velocities, along with how they measure accuracy of these measurements. In the context of my midterm presentation, I used this paper to establish a background on the properties used to characterize YSO’s, which helped me decide which property to further investigate for my presentation. 
+
+
 [Nishimura et. al, 2014](https://ui.adsabs.harvard.edu/abs/2015ApJS..216...18N/abstract)
 *Revealing the physical properties of molecular gas in Orion with a
 large scale survey in J = 2–1 lines of 12CO, 13CO and C18O*
