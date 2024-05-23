@@ -604,3 +604,9 @@ Magnetic fields are believed to exert significant influence on the dynamics and 
 $\Sigma_{avtive}$≈80 g cm−2 once grains aggregate to 3 μm. Stellar X-rays dominate ionization in the active layers, maintaining magnetic coupling to about 10% of the disk material at 1 AU in the absence of grains ($\Sigma_{avtive}$≈150 g cm−2). At 5 AU,$\Sigma_{avtive}$ approaches $\Sigma_{totsl}$ once grains aggregate to 1 μm in size.
 
 Thid paper relates to magnetic fields within protostellaar disk
+
+[Paardekooper et al,2021](https://arxiv.org/pdf/0909.4552)
+*A torque formula for non-isothermal Type I planetary migration – I. unsaturated horseshoe drag*
+
+In the process of studying low mass planets in protoplanetary disks, the authors of the paper, while starting from the continuity equation and the equation of motion, eventually develop an equation helps determine the migration speed and direction of previously mentioned low mass planets. Through this process they work out that the total torque in the process is strongly dependent on radial entropy.
+
