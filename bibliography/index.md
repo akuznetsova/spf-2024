@@ -24,6 +24,11 @@ Paragraph: Relationship to the course material (be specific as possible).
 (Optional Paragraph: Questions you had while reading,
  salient connections to other papers we've talked about)
 ```
+[Peter Goldreich and Scott Tremaine,1980] (https://articles.adsabs.harvard.edu/pdf/1980ApJ...241..425G)
+*Disk-satellite interaction*
+If you love derivations and looking at long pages of math, you are absolutely going to love this paper. If you don’t enjoy those things, you still enjoy this paper for the information it provides, specifically the authors of the paper evaluating the transfer of angular momentum and energy between a disk and satellite. They manage to do this using two different methods and making reasonable assumptions. Don’t let the pages of math ward you off of this paper, it’s surprisingly easy to follow, and the authors do a pretty good job of laying out what it is they are doing.
+
+This is related protoplanetary disks and angular momentum, which we covered in class. 
 
 [Hutton et. al, 2015](https://ui.adsabs.harvard.edu/abs/2015MNRAS.452.1412H/abstract)
 *Variations of the dust properties of M82 with galactocentric distance*
