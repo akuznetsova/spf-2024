@@ -24,6 +24,12 @@ Paragraph: Relationship to the course material (be specific as possible).
 (Optional Paragraph: Questions you had while reading,
  salient connections to other papers we've talked about)
 ```
+[Ormel and Klahr,2010](https://www.aanda.org/articles/aa/pdf/2010/12/aa14903-10.pdf)
+*The effect of gas drag on the growth of protoplanets*
+
+Ormel and Klahr's study offers valuable analytical tools for understanding the impact of gas drag on protoplanetary growth. By deriving expressions for the accretion rates of small bodies in laminar disks, the paper contributes to the theoretical framework needed to model the early stages of planet formation, emphasizing the importance of gas drag in enhancing accretion efficiency and accelerating protoplanet growth.
+
+
 [Lambrechts and Johansen,2012 ](https://arxiv.org/pdf/1205.3030)
 *Rapid growth of gas-gaint cores by pebble accretion*
 
