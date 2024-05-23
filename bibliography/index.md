@@ -24,6 +24,12 @@ Paragraph: Relationship to the course material (be specific as possible).
 (Optional Paragraph: Questions you had while reading,
  salient connections to other papers we've talked about)
 ```
+[Gullbring et al, 1998]( https://iopscience.iop.org/article/10.1086/305032/pdf)
+*Disk Accretion Rates for T Tauri Stars*
+
+The authots investigates the accretion rates of young T Tauri stars, which are stars in the early stages of their evolution. The authors use observational data to analyze the accretion rates of these stars, focusing on how they vary with stellar properties such as mass and age. They aim to better understand the processes of star formation and disk evolution.
+
+
 [Calvet and Gullbring, 1998]( https://iopscience.iop.org/article/10.1086/306527/pdf)
 *The structure and emission of the accretion shock in T Tauri stars*
 
