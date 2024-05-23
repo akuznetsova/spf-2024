@@ -24,6 +24,12 @@ Paragraph: Relationship to the course material (be specific as possible).
 (Optional Paragraph: Questions you had while reading,
  salient connections to other papers we've talked about)
 ```
+[Calvet and Gullbring, 1998]( https://iopscience.iop.org/article/10.1086/306527/pdf)
+*The structure and emission of the accretion shock in T Tauri stars*
+
+Calvet and Gullbring's research provides a detailed analysis of the structure and emission properties of accretion shocks in T Tauri stars. By combining theoretical models with observational data, the study enhances our understanding of the accretion processes in young stellar objects. The insights gained from this work are crucial for interpreting the emissions from T Tauri stars and for understanding the early stages of stellar evolution and planet formation.
+
+
 [Mellon and Li, 2008](https://iopscience.iop.org/article/10.1086/587542/pdf)
 *Magnetic Braking and Protostellar Disk Formation: The Ideal MHD Limit*
 
