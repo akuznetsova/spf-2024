@@ -24,6 +24,17 @@ Paragraph: Relationship to the course material (be specific as possible).
 (Optional Paragraph: Questions you had while reading,
  salient connections to other papers we've talked about)
 ```
+[(Pattle et. al. 2022)](https://arxiv.org/abs/2203.11179) 
+*Magnetic fields in star formation: from clouds to core*
+
+In this paper the authors cover a wide breath of topics involving magnetic fields, starting from clouds and going all the way down to pre/protostellar cores.
+They begin with an introduction which then goes into the type of measurements used to determine magnetic field strength, one of such being the Zeeman effect.
+The authors then explore magnetic clouds, magnetic filaments, and finally cores.  
+
+
+This is pretty relevant to the material we covered in class, specifically the Zeeman effect, and the magnetic field in relation to the pre/protostellar cores. 
+
+
 [Richard P. Nelson 2018](https://arxiv.org/pdf/1804.10578)
 *Planet Migration in Protoplanetary Disks*
 
