@@ -24,6 +24,12 @@ Paragraph: Relationship to the course material (be specific as possible).
 (Optional Paragraph: Questions you had while reading,
  salient connections to other papers we've talked about)
 ```
+[Terebey et al, 1984](https://articles.adsabs.harvard.edu/pdf/1984ApJ...286..529T)
+*The collapse of the cores of slowly rotating isothermal cloud*
+
+I have more bad news: this paper contains a considerable amount of math. If that hasn’t scared you off yet, then you’ll probably really enjoy this paper. The reason for so much math in this paper is that they present a semi analytical perturbational solution for a collapsing rotating cloud core. The introduction provides some minor background detail, but a lot this paper is basically weeding through math.
+
+
 [J.E. Pringle, 1981](https://articles.adsabs.harvard.edu/pdf/1981ARA%26A..19..137P)
 *Accretion Disk in Astrophysics*
 
