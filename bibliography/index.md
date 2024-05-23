@@ -24,6 +24,12 @@ Paragraph: Relationship to the course material (be specific as possible).
 (Optional Paragraph: Questions you had while reading,
  salient connections to other papers we've talked about)
 ```
+[Oberg et al, 2011](https://arxiv.org/abs/1110.5567)
+*The effects of snowlines on C/O in planetary atmospheres*
+
+No math, mostly chemistry! The authors research highlights the significant role of snowlines in shaping the chemical composition of planetary atmospheres. By influencing the distribution of carbon and oxygen in the disk, snowlines determine the C/O ratios in planets that form in different regions. This work enhances our understanding of planetary formation processes and the resulting diversity of exoplanetary atmospheres.
+
+
 [Ormel and Klahr,2010](https://www.aanda.org/articles/aa/pdf/2010/12/aa14903-10.pdf)
 *The effect of gas drag on the growth of protoplanets*
 
