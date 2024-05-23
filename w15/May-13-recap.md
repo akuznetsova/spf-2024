@@ -72,10 +72,4 @@ You can put questions that came up in class, or that you have yourself related t
 ```
 
 ### Related Resources
-```
-Resource contributions can go here.  
-[Links]URL can be directly inserted.
-You can upload files into the relevant folder and link them with a local relative link: [name][./filename.extension]
-(You can even copy paste images straight into the github editor!)
-```
-
+[(University of Amsterdam) Chris Ormel’s Planet Formation course](https://staff.fnwi.uva.nl/c.w.ormel/Teaching/planet-formation.pdf). Notes from Dr. Ormel’s UvA course on Star and Planet Formation. Sections 1.6 and 1.7 cover the concepts of runaway and oligarchic growth and pebble accretion, providing plots and graphics that demonstrate the differences between growth models, including geometries and timescales involved.
