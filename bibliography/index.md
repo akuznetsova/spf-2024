@@ -24,6 +24,12 @@ Paragraph: Relationship to the course material (be specific as possible).
 (Optional Paragraph: Questions you had while reading,
  salient connections to other papers we've talked about)
 ```
+[Papaloizou et al, 1995](https://articles.adsabs.harvard.edu/pdf/1995ApJ...438..841P)
+*On The Dynamics of Warped Accretion Disk*
+
+Everyone loves more math. In this case, the authors come up with a mathematical framework to describe warps in accretion disk and how they evolve. This is a pretty math heavy paper, so if that isn’t really your vibe, I would avoid it (or just jump to the discussion portion).
+
+
 [(Crutcher et. al. 2019)](https://www.frontiersin.org/articles/10.3389/fspas.2019.00066/full) 
 *Review of Zeeman Effect Observations of Regions of Star Formation*
 
