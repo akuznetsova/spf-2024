@@ -24,6 +24,12 @@ Paragraph: Relationship to the course material (be specific as possible).
 (Optional Paragraph: Questions you had while reading,
  salient connections to other papers we've talked about)
 ```
+[Papaloizou et al, 1995](https://articles.adsabs.harvard.edu/pdf/1995ARA%26A..33..505P)
+*Theory of Accretion Disks I: Angular Momentum Transport Processes*
+
+This is a two part review paper, this is the first, the second is behind a paywall for some reason? Part two of this paper presents more observation evidence, this paper does our favorite thing: math. Very manageable however. The paper of course gives brief background before diving into the math, and then begins to present (at the time) recent information regarding accretion disk theory, such as the transport of angular momentum carried by propagating waves, torque due to unstable modes of self gravitating disks, and the removal of angular momentum from the disk due to hydromagnetic winds. Very good if you want to deep dive accretion disk theory. 
+
+
 [Papaloizou et al, 1995](https://articles.adsabs.harvard.edu/pdf/1995ApJ...438..841P)
 *On The Dynamics of Warped Accretion Disk*
 
