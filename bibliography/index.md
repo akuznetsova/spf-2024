@@ -24,6 +24,18 @@ Paragraph: Relationship to the course material (be specific as possible).
 (Optional Paragraph: Questions you had while reading,
  salient connections to other papers we've talked about)
 ```
+
+[(Ching et. al. 2022)](https://www.nature.com/articles/s41586-021-04159-x) 
+*An early transition to magnetic supercriticality in star formation*
+
+The authors of the paper use the Zeeman effect to measure the strength of the magnetic field of L1544. More specifically they use the 
+HINSA (Hydrogen I narrow self-absorption) to determing the magnetic field, and they find out two things. The first being that the measurements they make are in
+alignment with the known and accepted values of measurements. The second is that supercriticality happens a lot sooner in the star formation magnetic field process
+that was previously thought to happen. 
+
+Both the Zeeman effect and supercriticality were topics that came up in class when we covered magnetic fields in pre/protostellar cores. In class we learned that
+supercriticality pushes back against gravitational collapse. 
+
 [(Pattle et. al. 2022)](https://arxiv.org/abs/2203.11179) 
 *Magnetic fields in star formation: from clouds to core*
 
