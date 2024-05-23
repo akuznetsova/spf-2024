@@ -24,6 +24,12 @@ Paragraph: Relationship to the course material (be specific as possible).
 (Optional Paragraph: Questions you had while reading,
  salient connections to other papers we've talked about)
 ```
+[Ormel and Cuzzi,2007](https://www.aanda.org/articles/aa/pdf/2007/17/aa6899-06.pdf)
+*Closed-form expressions for particle relative velocities induced in turbulence*
+
+So for this paper, the authors expand on a previous paper by one of the authors (Cuzzi) by offering a closed form expressions for particle velocities in turbulence. While there is some math, the paper is short enough that it shouldn’t really bother anyone who may not be fan of length math papers.
+
+
 [Oberg et al, 2011](https://arxiv.org/abs/1110.5567)
 *The effects of snowlines on C/O in planetary atmospheres*
 
