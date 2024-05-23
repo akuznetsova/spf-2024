@@ -24,6 +24,12 @@ Paragraph: Relationship to the course material (be specific as possible).
 (Optional Paragraph: Questions you had while reading,
  salient connections to other papers we've talked about)
 ```
+[Lambrechts and Johansen,2012 ](https://arxiv.org/pdf/1205.3030)
+*Rapid growth of gas-gaint cores by pebble accretion*
+
+Good news! Not nearly as much math in this paper, although there is a little bit of it. In this paper the authors attempt to and find out that the accretion of pebbles makes rapid formation of gas giant cores possible. They also find out that their numerical and analytical results are in agreement with the accretion of pebbles. The pebble accretion mechanism that they mention also is in agreement with observational data.
+
+
 [Terebey et al, 1984](https://articles.adsabs.harvard.edu/pdf/1984ApJ...286..529T)
 *The collapse of the cores of slowly rotating isothermal cloud*
 
