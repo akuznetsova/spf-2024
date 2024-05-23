@@ -24,6 +24,12 @@ Paragraph: Relationship to the course material (be specific as possible).
 (Optional Paragraph: Questions you had while reading,
  salient connections to other papers we've talked about)
 ```
+[J.E. Pringle, 1981](https://articles.adsabs.harvard.edu/pdf/1981ARA%26A..19..137P)
+*Accretion Disk in Astrophysics*
+
+Sorry, there is more math here as well. Not nearly as much as the other submissions, so that’s a benefit. The author presents their own version of a review on accretion disks, exploring various developments and scenarios involving disk. They conclude by mentioning that there is probably more to learn about accretion disks through observation than there is through theory. Definitely something you should read before the later reviews of accretion disk, that are also mention prior to this one
+
+
 [Papaloizou et al, 1995](https://articles.adsabs.harvard.edu/pdf/1995ARA%26A..33..505P)
 *Theory of Accretion Disks I: Angular Momentum Transport Processes*
 
