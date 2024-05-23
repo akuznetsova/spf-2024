@@ -24,6 +24,12 @@ Paragraph: Relationship to the course material (be specific as possible).
 (Optional Paragraph: Questions you had while reading,
  salient connections to other papers we've talked about)
 ```
+[Pinilla et al, 2018](https://arxiv.org/pdf/1207.6485)
+*Ring shaped dust accumulation in transition disks*
+
+The authors want to study how a large planet in a disk influences the growth and radial distribution of dust grains, and how observable those properties are linked to the mass of the planet. This is done using hydrodynamical disk simulations. There are a variety of results that are produced but would be difficult to summary concisely in this format. Definitely worth a read.
+
+
 [Ormel and Cuzzi,2007](https://www.aanda.org/articles/aa/pdf/2007/17/aa6899-06.pdf)
 *Closed-form expressions for particle relative velocities induced in turbulence*
 
