@@ -24,6 +24,13 @@ Paragraph: Relationship to the course material (be specific as possible).
 (Optional Paragraph: Questions you had while reading,
  salient connections to other papers we've talked about)
 ```
+
+[Pinilla et al, 2012](https://www.aanda.org/articles/aa/pdf/2012/02/aa18204-11.pdf)
+*Trapping dust particles in the outer regions of protoplanetary disks*
+
+The authors of this paper wanted to explain grain growth to mm sized particles and their retention in the outer regions of protoplanetary disks as observed at sub-mm and mm wavelengths. This is done by using disk structure models to simulate the evolution of dust. This leads to the authors figuring out the conditions required to trap dust particles.
+
+
 [Pinilla et al, 2018](https://arxiv.org/pdf/1207.6485)
 *Ring shaped dust accumulation in transition disks*
 
