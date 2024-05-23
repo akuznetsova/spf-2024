@@ -24,8 +24,15 @@ Paragraph: Relationship to the course material (be specific as possible).
 (Optional Paragraph: Questions you had while reading,
  salient connections to other papers we've talked about)
 ```
+[Shakura and Sunyaev, 1973](https://articles.adsabs.harvard.edu/pdf/1973A%26A....24..337S)
+*Black holes In Binary Systems. Observational Appearance*
+
+In this paper, Shakura and Sunyaev are trying to demonstrate that we should be able to observe black holes via the effect of outflowing matter from its accretion disk. They also point out that these black holes should be powerful sources of x ray emission and highly luminous. They put forth a parameter $\alpha$ which represents the angular momentum transport. It turns out that this $\alpha$ is less than or equal to 1. One would think paper is mostly about black holes, but it turns out the meat and potatoes of this paper lies in it work on accretion disk. While the black hole portion of this paper is not related to anything we’ve done in class, the accretion disk portion very much relates to things we’ve done in class, so much so that you’ll probably see this paper sited in any paper dealing with accretion disks in any manner.
+
+
 [Peter Goldreich and Scott Tremaine,1980](https://articles.adsabs.harvard.edu/pdf/1980ApJ...241..425G)
 *Disk-satellite interaction*
+
 If you love derivations and looking at long pages of math, you are absolutely going to love this paper. If you don’t enjoy those things, you still enjoy this paper for the information it provides, specifically the authors of the paper evaluating the transfer of angular momentum and energy between a disk and satellite. They manage to do this using two different methods and making reasonable assumptions. Don’t let the pages of math ward you off of this paper, it’s surprisingly easy to follow, and the authors do a pretty good job of laying out what it is they are doing.
 
 This is related protoplanetary disks and angular momentum, which we covered in class. 
