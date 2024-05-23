@@ -24,6 +24,15 @@ Paragraph: Relationship to the course material (be specific as possible).
 (Optional Paragraph: Questions you had while reading,
  salient connections to other papers we've talked about)
 ```
+[(Crutcher et. al. 2019)](https://www.frontiersin.org/articles/10.3389/fspas.2019.00066/full) 
+*Review of Zeeman Effect Observations of Regions of Star Formation*
+
+The authors provide a robust review of the Zeeman effect, how it's used to measure magnetic fields in astronomy, what molecules used to observe the zeeman effect, and
+how the results are interpretted. 
+
+
+Went over the Zeeman effect in class when talking about magnetic fields in pre/protostellar cores.
+
 
 [(Ching et. al. 2022)](https://www.nature.com/articles/s41586-021-04159-x) 
 *An early transition to magnetic supercriticality in star formation*
