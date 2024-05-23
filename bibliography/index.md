@@ -24,10 +24,20 @@ Paragraph: Relationship to the course material (be specific as possible).
 (Optional Paragraph: Questions you had while reading,
  salient connections to other papers we've talked about)
 ```
+[Richard P. Nelson 2018](https://arxiv.org/pdf/1804.10578)
+*Planet Migration in Protoplanetary Disks*
+
+If you need a review paper and want to catch up on what’s going on in planet migration in protoplanetary disk, this is the paper to check out. It gives the rundown on protoplanetary disk models, with a brief mention of observational data still not being enough give a complete picture of disk structure, while also mentioning that a lot of analyses are done via theoretical disk models. The author then expands on migration in viscous disks (where $\alpha_{SS}$ is about 10^-3) and how low, intermediate, and high mass planets impact (while providing specifics about what they mean by low, intermediate, and high mass planets). It then delves into inviscid (low viscosity) disk and the roles of dynamical corotation torques and spiral wave dissipation play, followed up by migration in advective disks, and how low, intermediate, and high mass planets impact migration in that regime. 
+
+This relates to a number of things we’ve covered in class, particularly protoplanetary disks, accretion disks, and planet formation.
+
+
 [Shakura and Sunyaev, 1973](https://articles.adsabs.harvard.edu/pdf/1973A%26A....24..337S)
 *Black holes In Binary Systems. Observational Appearance*
 
 In this paper, Shakura and Sunyaev are trying to demonstrate that we should be able to observe black holes via the effect of outflowing matter from its accretion disk. They also point out that these black holes should be powerful sources of x ray emission and highly luminous. They put forth a parameter $\alpha$ which represents the angular momentum transport. It turns out that this $\alpha$ is less than or equal to 1. One would think paper is mostly about black holes, but it turns out the meat and potatoes of this paper lies in it work on accretion disk. While the black hole portion of this paper is not related to anything we’ve done in class, the accretion disk portion very much relates to things we’ve done in class, so much so that you’ll probably see this paper sited in any paper dealing with accretion disks in any manner.
+
+The accretion disk portion of this relates to material we've covered in class previously
 
 
 [Peter Goldreich and Scott Tremaine,1980](https://articles.adsabs.harvard.edu/pdf/1980ApJ...241..425G)
