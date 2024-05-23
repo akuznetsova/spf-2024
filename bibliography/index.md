@@ -24,6 +24,11 @@ Paragraph: Relationship to the course material (be specific as possible).
 (Optional Paragraph: Questions you had while reading,
  salient connections to other papers we've talked about)
 ```
+[Mellon and Li, 2008](https://iopscience.iop.org/article/10.1086/587542/pdf)
+*Magnetic Braking and Protostellar Disk Formation: The Ideal MHD Limit*
+
+This paper deals with the role of magnetic breaking in the formation of the protostellar disk. It makes use of an ideal MHD situation which assumes no slippage between the gas and the magnetic field lines. It explores various initial conditions, making use of simulations. The authors find out that the magnetic breaking impact protostellar disks.
+
 
 [Pinilla et al, 2012](https://www.aanda.org/articles/aa/pdf/2012/02/aa18204-11.pdf)
 *Trapping dust particles in the outer regions of protoplanetary disks*
