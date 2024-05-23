@@ -418,11 +418,17 @@ They investigated the spectral energy distributions (SEDs) of 23 protoplanetary 
 
 This coincides with our decussion on disk dynamics and the comparisons between models and observations
 
-[(Bigiel et. al, year)](https://ui.adsabs.harvard.edu/abs/2008AJ....136.2846B/abstract) *The Star Formation Law in Nearby Galaxies on Sub-Kpc Scales*
+[(Bigiel et. al, 2008)](https://ui.adsabs.harvard.edu/abs/2008AJ....136.2846B/abstract) *The Star Formation Law in Nearby Galaxies on Sub-Kpc Scales*
 
 Using a sample of nearby galaxies (18), the authors of this paper attempt to analyze the relationship between the star formation rate, HI, and H2 surface densities at a very high resolution. The galaxy sample, consisting of those found within 15 Mpc of the Milky Way, is split into two types: HI dominated, and spirals (with H2 dominated centers). A multi-wavelength study is done using HI (21 cm emission) and H2 (CO emission) maps for the gas, and FUV and 24 $\mu {\rm m}$ maps for SFR. A combination of non-overlapping resolution limits and radial profiles are used for analysis. The authors find a strong correlation between $\Sigma_{\rm SFR}$ and $\Sigma_{\rm H2}$, but note that a power law fit a la the Schmidt Law would result in a power law index of ~1 in the sample of spirals. There is also little correlation, and thus little relation, between SFR and HI gas in this galaxy sample. Note that although the sample count is quite low, the sample was limited galaxies where high-resolution imaging across multiple bands is for the most part already available. 
 
 This paper relates to our in-class discussion of how galactic star formation is measured, and while different emission mechanisms and gas contents can be chosen to calculate SFR, we need to treat the work carefully and with a representative sample. 
+
+[(Springel & Hernquist, 2003)](https://ui.adsabs.harvard.edu/abs/2003MNRAS.339..289S/abstract) *Cosmological smoothed particle hydrodynamics simulations: a hybrid multiphase model for star formation*
+
+The authors of this paper detail their new star formation model designed for cosmological hydrodynamic simulations. This model treats the gas in a fluid element as a two-phase medium consisting of a warm and cool component. There is self-regulated star formation via a cyclic process of cold cloud collapse, evaporation, and condensation in the fluid cells due to the cold phase being in pressure equilibrium with the hot phase. Other physics being modeled include supernovae feedback and stellar winds for the regulation process. The authors find that they are able to reproduce observations in a cosmological environment, such as the cosmic star formation density as a function of time. They are also able to test and constrain metal enrichment and transfer due to winds, where if strong enough, they can enrich the intergalactic medium and produce metal lines as seen in Lyman-$\alpha$ forests. 
+
+This paper is relevant to the discussion on how cold cloud evolution should be treated in both observation and simulation. The authors of this work have clouds living on short time scales and are subsequently repopulated through a regulation process.
 
 [(Pinilla et. al, 2022)](https://arxiv.org/pdf/1410.5963) *Gas and dust structures in protoplanetary disks hosting multiple
 planets
