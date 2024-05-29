@@ -27,7 +27,7 @@ Paragraph: Relationship to the course material (be specific as possible).
 [Green, Hartman, Calvet, et al, 2006]( https://iopscience.iop.org/article/10.1086/505932/pdf)
 *Spitzer Observations FU Orionis Objects*
 
-This paper examines observations made by the SPitzer space telescope of FU Orionis outbursting objects.  These reveal novel slicate grain emission and absorption features between 8-10 microns and makes determinations about the nature of disk flaring post-outburst of these young stellar objects
+This paper examines observations made by the Spitzer space telescope of FU Orionis outbursting objects.  These reveal novel slicate grain emission and absorption features between 8-10 microns and makes determinations about the nature of disk flaring post-outburst of these young stellar objects
 
 [Cruz-Sa ́enz de Miera et al, 2023](https://arxiv.org/pdf/2301.03387)
 *Disk Photometric Outbursts: FU Orionis Objects*
