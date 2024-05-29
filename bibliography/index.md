@@ -24,7 +24,8 @@ Paragraph: Relationship to the course material (be specific as possible).
 (Optional Paragraph: Questions you had while reading,
  salient connections to other papers we've talked about)
 ```
-[D'Alessio, Calvet, and Hartman, 2009] (https://iopscience.iop.org/article/10.1086/320655/pdf)
+
+[D'Alessio, Calvet, and Hartman, 2009]( https://iopscience.iop.org/article/10.1086/320655/pdf)
 *Disk Accretion and Grain Growth Mechanics*
 
 This paper concerns observing objects in the Taurus-Auriga molecular cloud and modeling the infrared excesses seen in their disks.  The fiducial ISM values alongside photometric models of these stellar systems are not well matched to observations when inspecting SEDs.  Alternative values and approaches to parameters such as grain composition a_max, rho, and various inclination considerations can account for these observed energy distributions
