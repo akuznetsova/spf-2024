@@ -24,6 +24,10 @@ Paragraph: Relationship to the course material (be specific as possible).
 (Optional Paragraph: Questions you had while reading,
  salient connections to other papers we've talked about)
 ```
+[Cruz-Sa ́enz de Miera et al, 2023](https://arxiv.org/pdf/2301.03387)
+*Disk Photometric Outbursts: FU Orionis Objects*
+
+This paper observes the phenomenon of FU Orionis stars, pre-mainsequence stars still embedded in a mass-envelope and circumstellar disk.  These objects exhibit strong molecular outflows where their SEDs and photometric measurements increase drastically in magnitude and are modeled to drop back down to equilibrium measurements over the course of decades to centuries-- though none have yet been observed to do so.
 
 [D'Alessio, Calvet, and Hartman, 2009]( https://iopscience.iop.org/article/10.1086/320655/pdf)
 *Disk Accretion and Grain Growth Mechanics*
